@@ -1,0 +1,10 @@
+---
+layout: recipe
+title: Spice Mixes
+---
+
+<ul>
+{% for recipe in site.spice_mixes %}
+  <li><a href={{recipe.url}}>{{recipe.title}}</a></li>
+{% endfor %}
+</ul>

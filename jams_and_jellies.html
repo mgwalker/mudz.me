@@ -1,0 +1,10 @@
+---
+layout: recipe
+title: Jams and Jellies
+---
+
+<ul>
+{% for recipe in site.jams_and_jellies %}
+  <li><a href={{recipe.url}}>{{recipe.title}}</a></li>
+{% endfor %}
+</ul>

@@ -1,3 +1,17 @@
 collections:
+  breads:
+    output: true
+  drinks:
+    output: true
+  jams_and_jellies:
+    output: true
+  salad_dressings:
+    output: true
+  salads:
+    output: true
+  spice_mixes:
+    output: true
+  sweets:
+    output: true
   recipes:
     output: true
