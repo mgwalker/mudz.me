@@ -17,9 +17,9 @@ title: Beef Stock
 * 12 whole peppercorns
 * 4 whole cloves
 
-## Ingredients
+## Directions
 
-Preheat oven to 400° F.
+Heat oven to 400° F.
 
 Place the bones in a roasting pan and place in the oven for 30 minutes.
 Add the onion, celery, and carrots, and return to the oven for another
