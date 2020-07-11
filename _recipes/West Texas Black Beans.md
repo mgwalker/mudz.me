@@ -5,15 +5,15 @@ title: West Texas Black Beans
 
 ## Ingredients
 
-* 1 pound dry black beans
-* 2 Tablespoons kosher salt
+* 1/2 pound dry black beans
+* 1 Tablespoon kosher salt
 * 1 Tablespoon ground cumin
 * 1 teaspoon oregano
-* 1/2 pound Hatch or Anaheim chiles (about 4-6)
-* 6 cloves garlic, minced
-* 4 tomatillos, husks removed and finely chopped
-* 1 cup chopped cilantro, plus more for serving
-* 1 Tablespoon lime juice
+* 2-3 green chiles
+* 3 cloves garlic, minced
+* 2 tomatillos, husks removed and finely chopped
+* 1/2 cup chopped cilantro, plus more for serving
+* 1 1/2 teaspoons lime juice
 
 ## Directions
 
