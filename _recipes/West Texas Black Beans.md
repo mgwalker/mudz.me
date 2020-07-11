@@ -20,7 +20,7 @@ title: West Texas Black Beans
 Place the beans in a large pot, cover with 2 inches of water, and leave
 to soak overnight.
 
-roast the chiles under the broiler until blackened on both sides, about
+Roast the chiles under the broiler until blackened on both sides, about
 10-12 minutes, turning once. Once blackened, place the chiles in a paper
 sack or plastic food-storage bag, close it tight and let the chiles
 steam for 20 minutes. After the chiles have steamed, remove from the bag
