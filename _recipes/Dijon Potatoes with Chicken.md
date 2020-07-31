@@ -10,13 +10,15 @@ title: Dijon Potatoes with Chicken
 * 4 medium potatoes, cubed
 * 1/4 cup water
 * 1 Tablespoon butter
+* Salt and pepper, to taste
+
+### Sauce
 * 2 Tablespoons Dijon mustard
 * 2 Tablespoons honey
 * 1 1/2 teaspoons cider vinegar
 * 1 1/2 teaspoons water
 * 1 1/2 teaspoons whole-grain mustard
 * 2 teaspoons tarragon, minced
-* Salt and pepper, to taste
 
 ## Directions
 
@@ -30,7 +32,7 @@ layer, add the water, and cover. Leave for five minutes. Add the butter,
 cover and allow to cook another 15 minutes, stirring once halfway
 through, until the potatoes are tender.
 
-While the potatoes are cooking, add the Dijon, honey, vinegar, water,
+While the potatoes are cooking, make the sauce. Add the Dijon, honey, vinegar, water,
 and whole-grain mustard to a small bowl and whisk until well combined.
 
 Once the potatoes are done, add the sauce, tarragon, and chicken to the
