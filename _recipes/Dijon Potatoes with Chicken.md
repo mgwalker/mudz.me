@@ -28,13 +28,12 @@ cooked through. Remove to a plate.
 
 Add the remaining oil to the same pan. Once hot, add the potatoes and
 season generously with salt and pepper. Press the potatoes into a single
-layer, add the water, and cover. Leave for five minutes. Add the butter,
+layer, add the water, and cover. Leave for 5 minutes. Add the butter,
 cover and allow to cook another 15 minutes, stirring once halfway
 through, until the potatoes are tender.
 
-While the potatoes are cooking, make the sauce. Add the Dijon, honey, vinegar, water,
-and whole-grain mustard to a small bowl and whisk until well combined.
+While the potatoes are cooking, make the sauce. Add the Dijon, honey, vinegar, water, whole-grain mustard and tarragon to a small bowl and whisk until well combined.
 
-Once the potatoes are done, add the sauce, tarragon, and chicken to the
+Once the potatoes are done, add the sauce and chicken to the
 pan. Toss to combine, and cook for another 1-2 minutes until heated
 through. Serve.
