@@ -9,7 +9,7 @@ title: Cornbread
 * 2 cups cornmeal (yellow or white)
 * 1/2 cup flour
 * 1 Tablespoon baking powder
-* 1 teaspoon kosher salt
+* 1 - 2 teaspoons kosher salt
 * 1 egg
 * 2 cups buttermilk
 
