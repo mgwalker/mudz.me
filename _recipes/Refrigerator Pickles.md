@@ -11,9 +11,10 @@ title: Refrigerator Pickles
 * 1 large cucumber
 * 3 cloves garlic
 * 2 sprigs fresh dill
-* 1/4 teaspoon dill seed
-* 1/2 teaspoon mustard seed
-* 1 dried red chile
+* 1/4 teaspoon dill seed, or 1/4 teaspoon dried dill weed
+* 1/4 teaspoon mustard seed
+* 1/4 teaspoon black peppercorns
+* 1 dried red chile, or 1/8 teaspoon dried chile flakes
 
 ## Directions
 
