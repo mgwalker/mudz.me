@@ -5,13 +5,13 @@ title: Challa
 
 ## Ingredients
 
-4 cups bread flour
-2 1/4 teaspoons active dry yeast
-1/4 cup sugar
-2 eggs at room temperature, plus 1 egg for egg wash
-1 cup water
-1/4 cup canola oil
-1 teaspoon salt
+* 4 cups bread flour
+* 2 1/4 teaspoons active dry yeast
+* 1/4 cup sugar
+* 2 eggs at room temperature, plus 1 egg for egg wash
+* 1 cup water
+* 1/4 cup canola oil
+* 1 teaspoon salt
 
 ## Directions
 
