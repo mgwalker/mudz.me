@@ -17,7 +17,7 @@ title: Sausage Rolls
 
 ## Directions
 
-On low heat, warm the milk and 4 tablespoons of the butter until the
+On low heat, warm the milk and 4 Tablespoons of the butter until the
 milk is just beginning to steam, but not boiling, and the butter is
 melted. Remove from the heat.
 
@@ -42,7 +42,7 @@ Fold one side of the dough to the other and seal by pinching on all
 sides. Cover and allow to rise for 45 more minutes.
 
 After 45 minutes, preheat the oven to 375°F and melt the remaining 4
-tablespoons of butter. Brush the tops of the rolls with half the melted
+Tablespoons of butter. Brush the tops of the rolls with half the melted
 butter, and then bake uncovered for 15-18 minutes or until lightly
 browned. When you remove the rolls from the oven, brush the tops with
 the remaining butter.
