@@ -12,7 +12,7 @@ title: Jollof Rice
 * 1/4 cup vegetable oil
 * 3/4 teaspoon salt
 * 1/2 teaspoon curry powder
-* 3/4 teaspoons hot ground chili pepper
+* 3/4 teaspoons hot chile powder
 * 3/4 teaspoons garlic powder
 * 2 teaspoons onion powder
 * 1 bay leaf
@@ -27,7 +27,7 @@ Combine the tomatoes, habanero, and onions, and purée in a blender. Add
 the bell pepper and blend until smooth.
 
 Heat he vegetable oil in a large pot over medium heat. Add the blended
-mixture along with the salt, curry powder, ground chili pepper, garlic
+mixture along with the salt, curry powder, chile powder, garlic
 powder, onion powder, bay leaves, ginger, and thyme to the oil and bring
 to a boil. Stir in the rice until well mixed, then reduce the heat to
 low.
