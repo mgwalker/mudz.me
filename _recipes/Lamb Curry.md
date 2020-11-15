@@ -10,8 +10,7 @@ title: Lamb Curry
 * 1 Tablespoon cumin seeds
 * 1 Tablespoon fennel seeds
 * 1 Tablespoon fenugreek
-* 8-ounces boneless lamb leg, cut into 1-inch
-* chunks
+* 8-ounces boneless lamb leg, cubed
 * Kosher salt
 * 2 Tablespoons all-purpose flour
 * Olive oil
@@ -20,8 +19,7 @@ title: Lamb Curry
 * 1 onion, thinly sliced
 * 5 cloves garlic, minced
 * 2 stalks celery, cut into a medium dice
-* 1 bulb fennel, thinly sliced plus fennel fronds picked from 1
-* stem
+* 1 bulb fennel, thinly sliced plus fennel fronds picked from 1 stem
 * 3 Tablespoons tomato paste
 * 2 bay leaves
 * 1 teaspoon thyme
