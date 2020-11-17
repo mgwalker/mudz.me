@@ -8,7 +8,7 @@ title: Garlic Knots
 * 3 cups all purpose flour
 * 1 Tablespoon sugar
 * 2 1/4 teaspoons instant yeast
-* 1 1/4 tsp salt
+* 1 1/4 teaspoons salt
 * 2 Tablespoons olive oil
 * 1/4 cup milk
 * 1 cup plus 2 Tablespoons warm water
