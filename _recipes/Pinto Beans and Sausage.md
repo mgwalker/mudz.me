@@ -37,7 +37,7 @@ and deglaze the pot, scraping the bottom of the pan to incorporate any
 stuck bits.
 
 Return the beans to the pot and add enough water to cover the beans by 1
-inch, about 6 more cups. Stir in the cilantro, chili powder, cumin,
+inch, about 3 more cups. Stir in the cilantro, chili powder, cumin,
 oregano, smoked paprika, black pepper, and salt, turn the heat up to
 high and bring the pot to a boil. Once it's boiling, turn the heat down
 to low and then simmer partially covered until tender, which can take
