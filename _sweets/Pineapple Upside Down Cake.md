@@ -20,7 +20,7 @@ title: Pineapple Upside Down Cake
 
 Preheat oven to 350°F.
 
-Melt 1/4 cup of the butter in a loaf pan and sprinkle with brown sugar. Arrange
+Melt 1/4 cup of the butter in a 13-inch by 9-inch baking dish and sprinkle with brown sugar. Arrange
 pineapple rings over over the bottom of the pan and put in the oven
 until the cake batter is ready.
 
