@@ -8,14 +8,14 @@ title: Chicken Shawarma
 ### Chicken
 
 * 2 Tablespoons corn starch
-* 1 Tablespoon salt
-* 1 Tablespoon cayenne
+* 2 teaspoons salt
 * 1 teaspoon cumin
 * 1 teaspoon coriander
 * 1 teaspoon paprika
 * 1 teaspoon turmeric
 * 1 teaspoon cinnamon
 * 1/2 teaspoon cloves 
+* 1/2 teaspoon cayenne
 * 2 Tablespoons oil
 * 2 pounds chicken thighs
 
@@ -26,7 +26,7 @@ title: Chicken Shawarma
 * 1/4 cup oil
 * 1 Tablespoon mustard seeds
 * 1 teaspoon mustard powder
-* 1 teaspoon salt
+* 1/2 teaspoon salt
 * 1/4 cup cilantro, chopped
 
 ## Directions
