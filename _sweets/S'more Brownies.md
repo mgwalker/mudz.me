@@ -8,20 +8,20 @@ title: S'more Brownies
 
 ### Crust
 
-* 6 tablespoons unsalted butter, melted
+* 6 Tablespoons unsalted butter, melted
 * 1 1/2 cups crushed graham cracker crumbs
-* 2 tablespoons sugar
+* 2 Tablespoons sugar
 * Pinch fine salt
 
 ### Brownie
 
-* 8 tablespoons (1 stick) unsalted butter
+* 1/2 cup unsalted butter
 * 4 ounces unsweetened chocolate, chopped
 * 1 cup packed light brown sugar
 * 3/4 cup white sugar
 * 1 1/2 teaspoons pure vanilla extract
 * 1/2 teaspoon fine salt
-* 4 large cold eggs
+* 4 eggs
 * 1 cup all-purpose flour
 
 ### Topping
@@ -31,7 +31,7 @@ title: S'more Brownies
 ## Directions
 
 Position a rack in the lower third of the oven and heat oven to 325° F.
-Butter a 9" x 13" baking dish.
+Butter a 9-inch by 13-inch baking dish.
 
 For the crust: Stir the melted butter together with the crumbs, sugar,
 and salt in a medium bowl. Press the crumb mixture evenly over the
