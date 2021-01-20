@@ -5,10 +5,9 @@ title: Mandarin Chicken
 
 ## Ingredients
 
-* 2 skinless and boneless chicken breasts
+* 1 pound chicken, cut into 1/4-inch cubes
 * Oil, for pan-frying
 * Chopped scallion, for garnishing
-* 1 pound chicken, cut into 1/4-inch cubes
 
 ### Marinade
 
