@@ -7,12 +7,12 @@ title: Refrigerator Pickles
 
 * 4 cups water
 * 1 1/2 cup white vinegar
-* 4 1/4 ounces pickling salt
+* 4.15 ounces pickling salt
 * 2 large cucumbers
 * 6 cloves garlic
 * 4 sprigs fresh cilantro
 * 1/2 teaspoon dill seed 
-* 1/4 teaspoon dried dill weed
+* 1/2 teaspoon dried dill weed
 * 1/2 coriander seeds
 * 1/2 teaspoon black peppercorns
 * 2 dried red chiles, or 1/4 teaspoon dried chile flakes
