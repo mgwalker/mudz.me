@@ -19,7 +19,7 @@ title: Lemon Bars
 
 * 4 large eggs, plus 2 egg yolks
 * 2 cups granulated sugar
-* 1/3 cup all-purpose flour, sifted
+* 3 Tablespoons corn starch, dissolved in 3 Tablespoons water
 * 1 teaspoon grated lemon zest
 * 1 cup fresh lemon juice (from about 8 lemons)
 
