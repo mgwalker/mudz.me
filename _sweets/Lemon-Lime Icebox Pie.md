@@ -8,7 +8,7 @@ title: Lemon-Lime Icebox Pie
 * 8 ounces cream cheese, room temperature
 * 14 ounces sweetened condensed milk
 * Zest and juice of 2 lemons
-* Zest and juices of 1 lime
+* Zest and juice of 1 lime
 * Chocolate cookie pie crust
 * 1/2 cup cream
 * 1 Tablespoon powdered sugar
