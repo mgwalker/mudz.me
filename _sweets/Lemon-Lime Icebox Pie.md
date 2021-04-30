@@ -17,4 +17,4 @@ title: Lemon-Lime Icebox Pie
 
 Beat together the cream cheese, lemon zest, and lime zest. Gradually beat in the sweetened condensed milk until fully combined. Gradually beat in the lemon juice and lime juice. Pour into the prepared pie crust.
 
-Whip the cream on medium until foamy. Add the powdered sugar, and continue whipping to still peaks. Spread the whipped cream over the pie and freeze for at least two hours.
+Whip the cream on medium until foamy. Add the powdered sugar, and continue whipping to stiff peaks. Spread the whipped cream over the pie and freeze for at least two hours.
