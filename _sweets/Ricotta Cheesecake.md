@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Ricotta Cheesecake with Almond Crust
+title: Limoncello Cheesecake with Almond Crust
 ---
 
 ## Ingredients
