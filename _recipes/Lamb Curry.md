@@ -36,11 +36,7 @@ until tender, 2-3 hours.
 Heat a medium skillet over medium-high heat. Add the coriander seeds,
 cumin seeds, fennel seeds and fenugreek. Moving the skillet constantly,
 toast the spices until warm and fragrant, about 2 minutes. Remove from
-heat and transfer to a spice grinder. Grind into a powder and transfer
-to a small bowl and set aside.
-
-Toss the lamb, 2 Tablespoons of flour, the toasted and ground spice
-blend, and some salt together in a large bowl.
+heat and transfer to a spice grinder. Grind into a powder, combine with the flour, and toss with the lamb.
 
 Lightly coat a large Dutch oven with olive oil and heat over
 medium-high. When the oil is shimmering, add the lamb (work in batches
