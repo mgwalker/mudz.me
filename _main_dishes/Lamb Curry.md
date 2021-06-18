@@ -52,5 +52,5 @@ about 3 minutes. Add the chickpeas, tomato paste, bay leaves, thyme,
 crushed red pepper and stir to combine. Add the chicken stock and the
 seared lamb with any collected juices and bring to a boil. Turn heat to
 medium-low and allow to simmer until meat is tender and almost
-shreddable but holds its shape, about 1 hour. Remove from heat and
+shreddable but holds its shape, about 1 hour. Remove from the heat, stir in the cilantro and fennel fronds, and
 serve.
