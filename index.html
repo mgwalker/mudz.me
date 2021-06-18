@@ -6,13 +6,21 @@
       * {
         padding: 0;
         margin: 0;
+        font-family: sans-serif;
       }
       body {
         background: orange;
       }
 
-      div {
+      div#content {
+        position: relative;
+        z-index: 10;
+      }
+
+      div#background {
         position: absolute;
+        top: 0;
+        left: 0;
         min-width: 100vw;
         min-height: 100vh;
         background: url(pookie.svg);
@@ -20,9 +28,23 @@
         background-position: 0 35%;
         opacity: 0.4;
       }
+
+      div.link a {
+        display: inline-block;
+        background: rgba(255, 255, 255, 0.7);
+        border-radius: 0px 10px 10px 0px;
+        color: black;
+        font-weight: bold;
+        margin: 10px 0;
+        padding: 10px;
+        text-decoration: none;
+      }
     </style>
   </head>
   <body>
-    <div></div>
+    <div id="content">
+      <div class="link"><a href="recipes">Recipes</a></div>
+    </div>
+    <div id="background"></div>
   </body>
 </html>
