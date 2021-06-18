@@ -27,7 +27,7 @@
         width: 800px;
         padding: 10px;
       }
-      div#back {
+      div#back a {
         background: rgba(255, 255, 255, 0.7);
         border-radius: 0px 10px 10px 0px;
         color: black;
@@ -46,13 +46,13 @@
   </head>
   <body>
     {% unless page.url == "/recipes.html" %}
-    <div id="back" onClick="history.back();">
+    <div id="back">
       {% assign words = page.collection | split: '_' %}
       {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
       {% if titlecase == "" %}
-        Recipes Home
+        <a href="/recipes">Recipes Home</a>
       {% else %}
-        {{ titlecase }}
+        <a href="/{{ page.collection }}">{{ titlecase }}</a>
       {% endif %}
     </div>
     {% endunless %}
