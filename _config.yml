@@ -5,13 +5,19 @@ collections:
     output: true
   jams_and_jellies:
     output: true
+  main_dishes:
+    output: true
+  other_stuff:
+    output: true
   salad_dressings:
     output: true
   salads:
     output: true
+  sauces:
+    output: true
+  sides:
+    output: true
   spice_mixes:
     output: true
   sweets:
-    output: true
-  everything_else:
     output: true

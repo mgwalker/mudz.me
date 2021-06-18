@@ -4,13 +4,11 @@ title: Recipes
 ---
 
 <ul>
-  <li><a href="{{ site.baseurl }}/everything_else.html">Uncategorized</a> (entrees, etc.)</li>
-  <hr/>
-  <li><a href="{{ site.baseurl }}/breads.html">Breads</a></li>
-  <li><a href="{{ site.baseurl }}/drinks.html">Drinks</a></li>
-  <li><a href="{{ site.baseurl }}/jams_and_jellies.html">Jams and Jellies</a></li>
-  <li><a href="{{ site.baseurl }}/salad_dressings.html">Salad Dressings</a></li>
-  <li><a href="{{ site.baseurl }}/salads.html">Salads</a></li>
-  <li><a href="{{ site.baseurl }}/spice_mixes.html">Spice Mixes</a></li>
-  <li><a href="{{ site.baseurl }}/sweets.html">Sweets</a></li>
+  {% for collection in site.collections %}
+    {% unless collection.label == 'posts' %}
+      {% assign words = collection.label | split: '_' %}
+      {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+        <li><a href="{{ site.baseurl }}/{{ collection.label }}.html">{{ titlecase }}</a></li>
+    {% endunless %}
+  {% endfor %}
 </ul>
