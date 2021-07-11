@@ -21,4 +21,4 @@ title: Refrigerator Pickles
 
 Add the water, vinegar, and salt to a medium saucepan and bring to a boil. Once boiling, turn off the heat and leave to cool.
 
-Once the brine is cool, sterilize a quart mason jar. Wash, dry, and slice the cucumber into desired portions. Add to the jar along with the garlic, dill, dill seed, mustard seed, and dried red chile. Pour the brine over the top to fill the jar, seal, and store in the refrigerator a minimum of 2 weeks, and up to 4 months.
+Once the brine is cool, sterilize two quart mason jars. Wash, dry, and slice the cucumbers into desired portions. Evenly divide all the ingredients between the two jars. Pour the brine over the top to fill the jar, seal, and store in the refrigerator a minimum of 2 weeks, and up to 4 months.
