@@ -7,7 +7,7 @@ title: Niter Kibbeh
 
 * 250 grams unsalted butter
 * 1 shallot, finely diced
-* 2 garlic cloves, sliced
+* 4 garlic cloves, sliced
 * 1 knob of ginger, sliced
 * 1 cinnamon stick
 * 4 black cardamom pods, crushed
