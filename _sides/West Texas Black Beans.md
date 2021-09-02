@@ -27,7 +27,7 @@ steam for 20 minutes. After the chiles have steamed, remove from the bag
 and rub off the skin. Remove the stems and seeds from the chiles and
 finely chop.
 
-After the beans have soaked, add to the pot the diced chiles, garlic,
+After the beans have soaked, add to the pot the salt, cumin, oregano, chiles, garlic,
 tomatillos, and cilantro. Bring the pot to a boil on high, then turn the
 heat down to low, cover the pot, and simmer for 1 hour.
 
