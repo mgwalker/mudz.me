@@ -22,7 +22,7 @@ cool, place the walnuts in a blender and pulse until finely ground. Add
 the water and stir until combined into a thick paste.
 
 Fry the sliced onions with the oil in a large pot until golden brown.
-Season the chicken one each side with salt and pepper and add the
+Season the chicken on each side with salt and pepper and add the
 chicken to the pot. Spoon the walnut paste evenly over the chicken. Add
 the pomegranate molasses and stir to combine. Add the bay leaves, and
 bring to a boil over medium heat. Reduce to medium-low heat, cover, and
