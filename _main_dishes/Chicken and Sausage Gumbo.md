@@ -10,8 +10,7 @@ title: Chicken and Sausage Gumbo
 * 1 1/2 cups chopped onions
 * 1 cup chopped celery
 * 1 cup chopped bell peppers
-* 1 pound smoked sausage, such as andouille or kielbasa, cut crosswise
-* into 1/2-inch slices
+* 1 pound smoked sausage, such as andouille or kielbasa, cut crosswise into 1/2-inch slices
 * 1 1/2 teaspoons salt
 * 1/4 teaspoon cayenne
 * 3 bay leaves
