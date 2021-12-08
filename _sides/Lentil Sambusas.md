@@ -7,6 +7,7 @@ title: Lentil Sambusas
 
 * 1/2 cup black lentils
 * 1/2 cup green lentils
+* 2 cups water
 * 1 Tablespoon canola oil
 * 1 onion, diced
 * 1 green chile, diced
@@ -21,10 +22,7 @@ title: Lentil Sambusas
 
 ## Directions
 
-Rinse the lentils until the water runs clear. Cover the lentils with an
-inch of water and soak overnight.
-
-Add the lentils and water to a saucepan and bring to a boil. Reduce to a
+Rinse the lentils until the water runs clear. Add the lentils and water to a saucepan and bring to a boil. Reduce to a
 simmer and cook until tender, 20 - 30 minutes. Drain.
 
 Heat the oven to 400° F.
