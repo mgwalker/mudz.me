@@ -34,4 +34,4 @@ browned, abut 5 minutes. Add the remaining wine and simmer uncovered for 5 minut
 Whisk the chickpea flour into the hot water until smooth, then stir it into the pot. Partially cover the pot with a lid and cook over low heat, stirring 
 frequently for about 20 minutes. Add water as necessary to keep it from drying out.
 
-Stir in the mekelesha, cook for another 3 - 4 minutes, and serve with cooked lentils.
+Stir in the mekelesha, cook for another 3 - 4 minutes, and serve with lentils.
