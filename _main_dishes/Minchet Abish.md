@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: African Groundnut Soup
+title: Minchet Abish
 ---
 
 ## Ingredients
