@@ -15,7 +15,7 @@ title: Minchet Abish
 * 1 Tablespoon honey
 * 1 pound ground beef
 * 2 Tablespoons niter kibbeh, or clarified butter
-* 1 teaspoon ground negella seeds
+* 1 teaspoon ground nigella seeds
 * 2 Tablespoons chickpea flour
 * 1/2 cup hot water
 * 1/4 teaspoon mekelesha
