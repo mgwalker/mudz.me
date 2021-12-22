@@ -14,3 +14,5 @@ title: Gluten-Free Flour Blend
 ## Directions
 
 Whisk all the ingredients in large bowl until well combined. Transfer to airtight container and refrigerate for up to 3 months.
+
+In recipes, use 122 grams of gluten-free flour for each cup of all-purpose flour.
