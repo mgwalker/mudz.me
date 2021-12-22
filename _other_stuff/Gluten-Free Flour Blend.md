@@ -9,7 +9,8 @@ title: Gluten-Free Flour Blend
 * 7 1/2 ounces brown rice flour
 * 7 ounces potato starch
 * 3 ounces tapioca starch
-* 3/4 ounce nonfat dry milk powder 
+* 3/4 ounce nonfat dry milk powder
+* 1/2 ounce xanthan gum
 
 ## Directions
 
