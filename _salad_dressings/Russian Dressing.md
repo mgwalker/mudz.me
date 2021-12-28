@@ -6,7 +6,7 @@ title: Russian Dressing
 ## Ingredients
 
 * 1/2 cup mayonnaise
-* 1/4 cup chile Sauce
+* 1/4 cup sriracha
 * 1 teaspoon smoked paprika
 * 1 Tablespoon horseradish
 * 1 teaspoon pimentos
