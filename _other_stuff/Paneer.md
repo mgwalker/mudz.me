@@ -5,9 +5,9 @@ title: Paneer
 
 ## Ingredients
 
-4 cups whole milk
-1 Tablespoon salt
-1/4 cup white vinegar
+* 4 cups whole milk
+* 1 Tablespoon salt
+* 1/4 cup white vinegar
 
 ## Directions
 
