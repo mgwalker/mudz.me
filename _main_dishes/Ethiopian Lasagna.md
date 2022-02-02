@@ -16,6 +16,7 @@ title: Ethiopian Lasagna
 * 1 Tablespoon smoked paprika
 * 1 Tablespoon ground coriander seeds
 * 1 15-ounce can of tomato sauce
+* 1 cup water
 * 2 Tablespoons dried oregano
 * 2 Tablespoons fresh basil, chopped
 * 2 bay leaves
@@ -33,8 +34,9 @@ to the pot, being careful to break up clumps with a wooden spoon. Add salt
 and pepper to taste, then cook until the meat is browned, about 10 minutes.
 
 Add the tomato paste and berbere to the pot; allow to cook for 5 minutes before
-adding the tomato sauce, paprika, coriander, bay leaves, oregano, and basil.
-Reduce the heat and simmer for up to 2 hours, stirring occasionally.
+adding the tomato sauce, water, paprika, coriander, bay leaves, oregano, and basil.
+Reduce the heat and simmer for up to 2 hours, stirring occasionally. Add water as necessary
+to prevent the sauce from drying out and scorching.
 
 Heat the oven to 375° F. Boil lasagna noodles according to package directions. Drain and set aside.
 
