@@ -23,7 +23,7 @@ title: KFC Fried Chicken
 * 1 Tablespoon powdered mustard
 * 1 Tablespoon ground ginger
 * 2 teaspoons kosher salt
-* 1 1/2 teasoons MSG
+* 1 1/2 teaspoons MSG
 * 1 1/2 teaspoons basil
 * 1 1/2 teaspoons thyme
 * 1 teaspoon oregano
