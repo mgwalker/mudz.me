@@ -53,7 +53,7 @@ and cook for 7 to 8 minutes.
 
 Take off the cover, gently turn over the chicken with tongs or a wooden
 spoon, and continue to cook uncovered for 7 to 8 more minutes. Stick an
-instant read thermometer in the largest piece, and check that it's 150°
+instant read thermometer in the largest piece, and check that it's 160°
 F so, place the fried chicken the paper towels to drain. If not,
 continue to cook for a couple more minutes. Repeat for the remaining
 pieces, using the same oil.
