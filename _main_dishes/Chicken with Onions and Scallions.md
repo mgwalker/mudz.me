@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Beef with Onions and Scallions
+title: Chicken with Onions and Scallions
 ---
 
 ## Ingredients
