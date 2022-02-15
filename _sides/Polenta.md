@@ -6,7 +6,7 @@ title: Polenta
 ## Ingredients
 
 * 1 cup yellow cornmeal or polenta
-* 4 cupswater
+* 4 cups water
 * 1 garlic clove, grated
 * 1/2 cup grated Parmesan, or other sharp salty cheese
 * 1 teaspoon, salt plus more if needed
