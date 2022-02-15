@@ -32,7 +32,7 @@ then turn the heat up to high and bring the pot to a
 boil.
 
 Once the pot is at a boil, turn the heat down to low and then simmer
-uncovered without stirring for about two hours or until the pork is
+uncovered without stirring for about 2 hours, or until the pork is
 tender. At this time, turn the heat up to medium and then while
 occasionally stirring, cook until most of the liquid has reduced, most
 of the fat has rendered, and the pork has browned, about 30-45
