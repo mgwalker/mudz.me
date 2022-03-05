@@ -8,8 +8,7 @@ title: Flourless Chocolate Cake (Julia Child)
 
 ### Cake
 
-* 2 Tablespoons instant espresso
-* 1/4 cup hot water
+* 1/4 cup strong brewed coffee or espresso, hot
 * 7 ounces semi-sweet chocolate
 * 2 ounces baker\'s chocolate
 * 1/2 cup unsalted butter, softened
@@ -28,21 +27,25 @@ title: Flourless Chocolate Cake (Julia Child)
 
 Heat the oven to 350° F. Butter an 8-inch round cake pan
 
-Add hot water and espresso in a heatproof bowl over a pan of simmering
-water and stir, then add the chocolate. Stir until the chocolate is
-melted, then remove from the heat and beat in the butter.
+Add the coffee and chocolate in a heatproof bowl over a pan of simmering
+water. Stir until the chocolate is melted, then remove from the heat and 
+stir in the butter. Set aside to cool slightly.
 
-Gradually beat together the egg yolks and sugar until thick and
-lemon-colored. Gradually fold in the chocolate mixture to prevent eggs
-scrambling. Beat the egg whites until foamy, then add the cream of
-tartar. Continue beating until stiff peaks form. Fold in the cornstarch,
-alternating with egg whites.
+Beat together the egg yolks and sugar until thick and
+lemon-colored. Gradually fold in the chocolate mixture to prevent the eggs
+scrambling. 
+
+Beat the egg whites until foamy, then add the cream of
+tartar. Continue beating until stiff peaks form. 
+
+Fold the cornstarch into the egg mixture 1/4 cup at a time, alternating with the
+egg whites, until well combined.
 
 Pour the batter into the prepared cake pan. Lift and drop the pan to
 settle the batter. Bake 15-18 minutes, until the sides are just set and
 center is still moist). Set aside to cool for about 10 minutes, then
 unmold.
 
-Melt the icing chocolate in a heatproof bowl over a pan of simmering
+For the icing, melt the chocolate in a heatproof bowl over a pan of simmering
 water. Remove from the heat, then mix in the butter. Spread over the
-cooled cake and let stand until chocolate is firm.
+cooled cake and let stand until the chocolate is firm.
