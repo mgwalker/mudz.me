@@ -11,7 +11,6 @@ title: Pinto Beans and Sausage
 * 1/2 medium yellow onion, diced
 * 1 to 2 jalapeños, seeded, stemmed, and diced
 * 2 cloves garlic, minced
-* 1 cup water
 * 2 Tablespoons chopped cilantro
 * 1 1/2 teaspoons chili powder
 * 1 teaspoon ground cumin
@@ -19,6 +18,7 @@ title: Pinto Beans and Sausage
 * 1/2 teaspoon smoked paprika
 * 1/2 teaspoon black pepper
 * 1 1/2 teaspoons kosher salt
+* Water
 
 ## Directions
 
