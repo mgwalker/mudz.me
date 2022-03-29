@@ -19,4 +19,4 @@ title: Taco Soup
 
 Brown the beef in a large pot, then stir in the taco seasoning and ranch
 dressing mix until the meat is evenly covered. Add the other
-ingredients, heat to a boil, then reduce heat. Simmer 10-20 minutes.
+ingredients, heat to a boil, then reduce heat. Simmer 10-20 minutes. Serve with Fritos and Monterrey Jack.
