@@ -12,7 +12,7 @@ title: Taco Soup
 * 16 ounces canned black beans
 * 16 ounces canned diced tomatoes
 * 1 cup frozen whole kernel corn
-* 24 ounces V8 vegetable juice
+* 16 ounces V8 vegetable juice
 * Salt and pepper, to taste
 
 ## Directions
