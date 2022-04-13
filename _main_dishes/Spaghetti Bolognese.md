@@ -5,7 +5,7 @@ title: Spaghetti Bolognese
 
 ## Ingredients
 
-* 1/2 large onion or 1 small, cut into 1-inch dice (**NOTE:** cooked fennel worked, next dry raw fennel)
+* 1/2 large onion or 1 small, cut into 1-inch dice
 * 1 large carrot, cut into 1/2-inch dice
 * 2 ribs celery, cut into 1-inch dice
 * 2 cloves garlic
