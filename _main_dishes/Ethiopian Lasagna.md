@@ -10,7 +10,7 @@ title: Ethiopian Lasagna
 * 8 cloves of garlic, minced
 * 2 large fresh tomatoes, chopped
 * 2 green onions, thinly sliced
-* 1 1/2 pound lean ground beef
+* 1 1/2 pounds lean ground beef
 * 1 Tablespoon tomato paste
 * 1 1/2 Tablespoons berbere
 * 1 Tablespoon smoked paprika
