@@ -20,14 +20,14 @@ title: Halal Cart Chicken
 
 ### Yellow Rice
 
-* 2 cups basmati rice
-* 2 Tablespoons extra-virgin olive oil 
-* 1 small onion, finely chopped 
-* 1 1/2 teaspoons ground turmeric  
-* 1 teaspoon ground cumin 
-* 1 teaspoon salt  
-* 1 1/2 cups chicken stock
-* 2 cups water
+* 1 cup basmati rice
+* 1 Tablespoon extra-virgin olive oil 
+* 1/2 small onion, minced 
+* 3/4 teaspoon ground turmeric  
+* 1/2 teaspoon ground cumin 
+* 1/2 teaspoon salt  
+* 3/4 cup chicken stock
+* 1 cups water
 
 ### White Sauce
 
