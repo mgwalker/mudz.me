@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Italian Sandwich Salad
+title: Superhero Salad
 ---
 
 ## Ingredients
