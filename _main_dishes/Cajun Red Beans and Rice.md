@@ -37,6 +37,6 @@ gentle simmer.
 
 Once the beans have started to soften but not cooked fully, just over an
 hour, add the reserved sausage to the beans along with the mustard.
-Continue to cook until the beans are soft, about 3 hours. Add more water
+Continue to cook until the beans are soft, another 1 - 2 hours. Add more water
 as needed. Continue cooking until the liquid is more like a thick gravy
 than a thin soup. Stir in the cooked rice and serve.
