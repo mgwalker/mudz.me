@@ -22,7 +22,7 @@ title: Oatmeal Cake
 ### Topping
 
 * 6 Tablespoons butter
-* 1/4 evaporated milk
+* 1/4 cup evaporated milk
 * 1/2 cup sugar
 * 1/2 cup shredded coconut
 * 1 teaspoon vanilla
