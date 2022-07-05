@@ -31,8 +31,8 @@ soft. Add the garlic and cook for 30 seconds more. Add the kale and let
 it cook until it has wilted. Add the salt, pepper and chili flakes, stir
 to combine, then remove the pan from the heat.
 
-Butter the bottom of a 13-inch by 9-inch baking dish. Add [1/3]{.s2} of
-the bread cubes then top with [1/3]{.s2} of the kale and [1/3]{.s2} of
+Butter the bottom of a 13-inch by 9-inch baking dish. Add 1/3 of
+the bread cubes then top with 1/3 of the kale and 1/3 of
 each of the cheeses. Repeat 3 times, reserving a small handful of
 cheeses.
 
