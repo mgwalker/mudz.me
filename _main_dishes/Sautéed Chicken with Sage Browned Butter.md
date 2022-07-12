@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Sautéd Chicken with Sage Browned Butter
+title: Sautéed Chicken with Sage Browned Butter
 ---
 
 ## Ingredients
