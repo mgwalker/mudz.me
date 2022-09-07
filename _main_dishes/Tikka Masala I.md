@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Tikka Masala
+title: Tikka Masala I
 ---
 
 ## Ingredients
