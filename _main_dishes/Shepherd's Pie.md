@@ -44,13 +44,13 @@ saucepan. Mash the potatoes and then add the half and half, butter, salt
 and pepper and continue to mash until smooth. Stir in the yolk until
 well combined.
 
-Preheat the oven to 400°F.
+Heat the oven to 400°F.
 
 While the potatoes are cooking, prepare the filling. Pour the canola oil
 into a 12-inch sauté pan and set over medium high heat. Once the oil
 shimmers, add the onion and carrots and sauté just until they begin to
 take on color, approximately 3 to 4 minutes. Add the garlic and stir to
-combine. Add the lamb, salt and pepper and cook until browned and cooked
+combine. Add the lamb, salt, and pepper, and cook until browned and cooked
 through, approximately 3 minutes. Sprinkle the meat with the flour and
 toss to coat, continuing to cook for another minute. Add the tomato
 paste, beef stock, Worcestershire, rosemary, thyme, and stir to combine.
