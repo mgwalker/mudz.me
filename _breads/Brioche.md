@@ -8,17 +8,17 @@ title: Brioche
 
 ### Starter
 
-* 1⁄3 cup warm whole milk (100 - 110° F)
-* 2 1⁄4 teaspoons active dry yeast
+* 1/3 cup warm whole milk (100 - 110° F)
+* 2 1/4 teaspoons active dry yeast
 * 1 large egg
 * 2 cups unbleached all-purpose flour
 
 ### Dough
 
-* 1⁄3 cup sugar
+* 1/3 cup sugar
 * 1 teaspoon kosher salt
 * 4 large eggs, lightly beaten, room temp
-* 1 1⁄2 cups unbleached all-purpose flour (approximately)
+* 1 1/2 cups unbleached all-purpose flour (approximately)
 * 3/4 cup unsalted butter, room temperature
 
 ## Directions
