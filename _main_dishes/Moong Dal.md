@@ -18,7 +18,7 @@ title: Moong Dal
 * 1/2 teaspoon ground cumin
 * 1 teaspoon garam masala
 * 1 1/2 teaspoons brown sugar
-* 1 1/2 teaspoons lemon juice
+* 1 1/2 teaspoons lime juice
 * 1 teaspoons fenugreek leaves
 * 1/2 teaspoon mustard seeds
 * Pinch dried chile flakes
