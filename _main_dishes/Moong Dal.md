@@ -12,7 +12,7 @@ title: Moong Dal
 * 5 cloves garlic, minced
 * 1 teaspoon grated ginger
 * 2 tomatoes, chopped
-* 1 Tablespoon salt
+* 2 teaspoons salt
 * 1 teaspoon red chile powder, divided
 * 1/4 teaspoon ground turmeric
 * 1/2 teaspoon ground cumin
