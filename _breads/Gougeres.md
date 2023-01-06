@@ -23,7 +23,7 @@ Transfer the paste to the bowl of an electric mixer fitted with the paddle attac
 
 Place plastic wrap on the surface of the batter and refrigerate for 45 minutes. 
 
-Heat the oven to 400°F. Drop 1-ounce scoops of batter onto a non-stick mat or parchment paper. Sprinkle the remaining 1/2 cup of Gruyère over the top. 
+Heat the oven to 400°F. Drop 1-ounce scoops of batter onto a non-stick mat or parchment paper. Dip your fingers in water and pat down any pointy bits to prevent them from burning. Sprinkle the remaining 1/2 cup of Gruyère over the top. 
 
 Bake for 15 minutes, open the oven to allow steam to escape, and rotate the pan; finish baking for 15 more minutes, or until gougères are golden brown on the top and sides. They should have a firm crust and hollow interior. Remove from the oven and immediately remove to wire racks. Use a toothpick or skewer to carefully poke a hole in the bottom of each gougere to allow steam to escape.
 
