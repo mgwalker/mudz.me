@@ -43,7 +43,7 @@ minutes.
 Once tender, mash the lentils with a spoon. Add 1/2 teaspoon of the
 chile powder, along with the turmeric, cumin, and garam masla, and stir
 to combine. Bring to a boil over medium-low heat, and boil for five
-minutes. Add the brown sugar, lemon juice, and fenugreek, and stir to
+minutes. Add the brown sugar, lime juice, and fenugreek, and stir to
 combine. Remove from the heat.
 
 In a small skillet, heat the remaining oil over medium heat. Add the
