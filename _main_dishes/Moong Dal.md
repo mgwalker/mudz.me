@@ -21,8 +21,8 @@ title: Moong Dal
 * 1 1/2 teaspoons lime juice
 * 1 teaspoons fenugreek leaves
 * 1/2 teaspoon mustard seeds
-* Pinch dried chile flakes
-* Pinch Onion powder
+* Pinch of dried chile flakes
+* Pinch of onion powder
 * Zest of 1 lime
 * 8 leaves fresh basil, minced
 * 1 Tablespoon cilantro, minced
