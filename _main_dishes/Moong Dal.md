@@ -49,5 +49,5 @@ combine. Remove from the heat.
 In a small skillet, heat the remaining oil over medium heat. Add the
 remaining chile powder along with the mustard seeds, chile flakes, and
 onion powder. Fry for a few seconds, being careful not to let it burn.
-Pour over the dal and stir to combine, add the lime zest, basil, and
-cilantro, and stir to combine.
+Pour over the dal and stir to combine. Add the lime zest, basil, and
+cilantro, and stir through.
