@@ -28,7 +28,6 @@ title: Carla Hall's Chicken Pot Pie
 * 1 stewed chicken, meat removed and cubed
 * 1/4 cup butter
 * 2 ounces flour
-* 1/4 cup heavy cream
 * 1-2 Tablespoons poultry seasoning
 * 6 ounces frozen baby peas
 
@@ -44,8 +43,7 @@ translucent. Add in the celery and carrots, and cook until fragrant. Add
 the herbs and chicken broth and bring just to a boil. Reduce to a simmer
 until the vegetables are tender. Remove the herbs and strain, reserving
 the broth. In another saucepan, melt the butter, then whisk in the
-flour. When smooth, whisk in the strained broth and bring to a simmer.
-Add the cream and simmer until thick. Season with salt and pepper, as
+flour. When smooth, whisk in the strained broth and simmer until thick. Season with salt and pepper, as
 desired. Add the gravy to the vegetables, then add the peas, chicken,
 and poultry seasoning. Stir to combine. Cook another 4-5 minutes, then
 remove from the heat and allow to cool.
