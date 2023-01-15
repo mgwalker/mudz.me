@@ -7,27 +7,27 @@ title: Halal Cart Chicken
 
 ### Chicken
 
-* 1/3 cup fresh lemon juice, about 2 lemons
-* 3 Tablespoons olive oil 
-* 1 teaspoon paprika 
-* 1 teaspoon ground cumin 
-* 1 teaspoon ground coriander 
-* 1/2 teaspoon ground allspice 
-* 1/2 teaspoon turmeric 
-* 6 cloves garlic, minced 
-* 2 pounds chicken thighs, cut into 1-inch pieces 
+* 3 Tablespoons lemon juice
+* 1 1/2 Tablespoons olive oil 
+* 1/2 teaspoon paprika 
+* 1/2 teaspoon ground cumin 
+* 1/2 teaspoon ground coriander 
+* 1/4 teaspoon ground allspice 
+* 1/4 teaspoon turmeric 
+* 3 cloves garlic, minced 
+* 1 pound chicken thighs, cut into 1-inch pieces 
 * Salt and pepper, to taste
 
 ### Yellow Rice
 
-* 1 cup basmati rice
-* 1 Tablespoon extra-virgin olive oil 
-* 1/2 small onion, minced 
-* 3/4 teaspoon ground turmeric  
-* 1/2 teaspoon ground cumin 
-* 1/2 teaspoon salt  
-* 3/4 cup chicken stock
-* 1 cups water
+* 1/2 cup basmati rice
+* 1/2 Tablespoon extra-virgin olive oil 
+* 1/4 small onion, minced 
+* 3/8 teaspoon ground turmeric  
+* 1/4 teaspoon ground cumin 
+* 1/4 teaspoon salt  
+* 1/2 cup chicken stock
+* 1/2 cup water
 
 ### White Sauce
 
