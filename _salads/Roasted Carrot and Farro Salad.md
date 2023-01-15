@@ -11,7 +11,6 @@ title: Roasted Carrot and Farro Salad
 * 2 pounds thin carrots, scrubbed (or halved or quartered lengthwise if
 * they're fat)
 * 6 to 10 cloves garlic, peeled and smashed
-* 1 red bell pepper, diced (optional)
 * 10 sprigs fresh thyme
 * 1/4 cup fresh flat-leaf parsley
 * 1 1/2 to 2 cups cooked navy beans
@@ -31,8 +30,7 @@ Rotate and shake the pan, add the garlic, and cook for another 15
 minutes, until the carrots are still al dente but soft and can be cut
 with a fork. Remove from the oven and allow to cool.
 
-Discard the thyme. Toss the carrots, garlic, parsley, and bell pepper
-(if using) with the farro. Once mixed, very gently fold in the beans.
+Discard the thyme. Toss the carrots, garlic, and parsley with the farro. Once mixed, very gently fold in the beans.
 Check seasoning and add salt if desired. Arrange the salad on a serving
 platter and drizzle a little more olive oil over the top and dust
 generously with fresh-cracked pepper.
