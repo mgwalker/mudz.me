@@ -34,14 +34,9 @@ into the baking dish and bake for 50 - 55 minutes.
 
 ## Frosting
 
-8 ounces cream cheese, softened
-
-1/2 cup butter, softened
-
-1 box powdered sugar
-
-2 teaspoons vanilla
-
-
+* 8 ounces cream cheese, softened
+* 1/2 cup butter, softened
+* 1 box powdered sugar
+* 2 teaspoons vanilla
 
 Beat together & spread onto the cooled cake.
