@@ -40,7 +40,7 @@ title: Halal Cart Chicken
 
 ## Directions
 
-Put the lemon juice, olive oil, paprika, cumin, coriander, allspice, turmeric, garlic, 1 teaspoon salt and 1/4 teaspoon pepper in a large bowl and stir to combine. Add the chicken and give it a good stir to make sure all the pieces are coated with the marinade. Cover with plastic wrap and marinate, refrigerated, for at least 30 minutes and up to 6 hours.
+Put the lemon juice, olive oil, paprika, cumin, coriander, oregano, allspice, turmeric, garlic, 1 teaspoon salt and 1/4 teaspoon pepper in a large bowl and stir to combine. Add the chicken and give it a good stir to make sure all the pieces are coated with the marinade. Cover with plastic wrap and marinate, refrigerated, for at least 30 minutes and up to 6 hours.
 
 While the chicken is marinating, make the yellow rice. Heat the olive oil in a 3-quart saucepan over medium heat. Add the onions and sauté, stirring occasionally, until translucent and a bit golden, about 5 minutes. Add the rice, turmeric, cumin and salt and stir to combine. Add the chicken broth and water and turn the heat to medium high.  
 
