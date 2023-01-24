@@ -12,6 +12,7 @@ title: Halal Cart Chicken
 * 1/2 teaspoon paprika 
 * 1/2 teaspoon ground cumin 
 * 1/2 teaspoon ground coriander 
+* 1/2 teaspoon oregano
 * 1/4 teaspoon ground allspice 
 * 1/4 teaspoon turmeric 
 * 3 cloves garlic, minced 
