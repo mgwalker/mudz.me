@@ -30,7 +30,7 @@ jobs:
       - name: upload artifacts
         uses: actions/upload-pages-artifact@v1
         with:
-          path: site
+          path: _site
 
       - name: deploy
         uses: actions/deploy-pages@v1
