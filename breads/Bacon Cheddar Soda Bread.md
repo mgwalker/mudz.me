@@ -5,14 +5,14 @@ title: Bacon Cheddar Soda Bread
 
 ## Ingredients
 
-* 8 ounces cooked bacon, crumbled
-* 4 cups flour
-* 1 teaspoon baking soda
-* 1 Tablespoon kosher salt
-* 1 teaspoon granulated sugar
-* 1 cup (4 ounces) grated Irish cheddar
-* 4 green onions, chopped
-* 1 1/2 cups buttermilk
+- 8 ounces cooked bacon, crumbled
+- 4 cups flour
+- 1 teaspoon baking soda
+- 1 Tablespoon kosher salt
+- 1 teaspoon granulated sugar
+- 1 cup (4 ounces) grated Irish cheddar
+- 4 green onions, chopped
+- 1 1/2 cups buttermilk
 
 ## Directions
 

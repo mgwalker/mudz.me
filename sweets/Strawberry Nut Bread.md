@@ -1,7 +1,7 @@
 ---
 layout: recipe
-* title: Strawberry Nut Bread
-* ---
+title: Strawberry Nut Bread
+---
 
 ### Strawberry Nut Bread
 

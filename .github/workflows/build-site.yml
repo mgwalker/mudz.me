@@ -1,0 +1,36 @@
+name: content modified
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  rebuild:
+    name: deploy the site
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: install dependencies
+        run: npm ci
+
+      - name: build pages
+        run: npm run build
+      
+      - name: upload artifacts
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: site
+
+      - name: deploy
+        uses: actions/deploy-pages@v1

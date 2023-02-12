@@ -14,19 +14,23 @@
       <ld-icon size="lg" slot="logo">
         <img src="/assets/pookie.svg" style="width: 24px" />
       </ld-icon>
+      <div slot="end"><a href="/recipes">Recipes</a></div>
+      <div slot="end">
+        <a href="https://mastodon.social/@mud212" rel="me">Mastodon</a>
+      </div>
     </ld-header>
 
     <div style="display: flex">
       <ld-sidenav open>
+        {% for c in collections.recipes %}
         <ld-sidenav-navitem mode="secondary"
-          ><a href="/recipes">Recipes</a></ld-sidenav-navitem
+          ><a href="/{{ c.dir }}/">{{ c.name }}</a>
+          <ld-badge>{{ c.pages.length }}</ld-badge></ld-sidenav-navitem
         >
-        <ld-sidenav-navitem mode="secondary"
-          ><a rel="me" href="https://mastodon.social/@mud212"
-            >Mastodon</a
-          ></ld-sidenav-navitem
-        >
+        {% endfor %}
       </ld-sidenav>
+
+      <main>{{ content }}</main>
     </div>
     <script type="module" src="/js/main.js"></script>
   </body>

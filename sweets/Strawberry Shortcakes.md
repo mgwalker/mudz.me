@@ -1,7 +1,7 @@
 ---
 layout: recipe
-* title: Strawberry Shortcakes
-* ---
+title: Strawberry Shortcakes
+---
 * **Ingredients**
 * Biscuits:
 * 1 3/4 cups all-purpose flour, plus 1 tablespoon for

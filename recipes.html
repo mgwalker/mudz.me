@@ -1,14 +1,4 @@
 ---
-layout: recipe
+layout: default
 title: Recipes
 ---
-
-<ul>
-  {% for collection in site.collections %}
-    {% unless collection.label == 'posts' %}
-      {% assign words = collection.label | split: '_' %}
-      {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
-        <li><a href="{{ site.baseurl }}/{{ collection.label }}.html">{{ titlecase }}</a></li>
-    {% endunless %}
-  {% endfor %}
-</ul>

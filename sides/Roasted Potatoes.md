@@ -1,7 +1,7 @@
 ---
 layout: recipe
-* title: Roasted Potatoes
-* ---
+title: Roasted Potatoes
+---
 
 ### Ingredients
 
