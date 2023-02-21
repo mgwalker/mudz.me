@@ -7,7 +7,7 @@ title: Tikka Masala II
 
 ### Marinade
 
-* 1 1/4 whole milk yogurt
+* 1 1/4 cups whole milk yogurt
 * 1 Tablespoon finely grated ginger 
 * 4 teaspoons kosher salt 
 * 1 teaspoon Kashmiri red chili powder
