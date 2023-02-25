@@ -16,4 +16,6 @@ title: Elotes
 * 2 Tablespoons lime juice
 * Salt, to taste
 
+## Directions
+
 Heat a skillet over medium-high heat, then add the butter. Once the foaming subsides, add the corn and roast 8 - 15 minutes, tossing occasionally to get all sides. Remove from the heat and add the rest of the ingredients. Mix well, and add salt to taste.
