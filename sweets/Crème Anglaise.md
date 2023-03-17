@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Oatmeal Dutch Baby
+title: Crème Anglaise
 ---
 
 ## Ingredients
