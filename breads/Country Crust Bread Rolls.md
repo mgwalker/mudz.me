@@ -5,19 +5,19 @@ title: Country Crust Bread Rolls
 
 ## Ingredients
 
-* 2 packages (or 4 1/2 teaspoons) dry active yeast
-* 2 cups warm water
-* 1/2 cup sugar
-* 1 Tablespoon salt
-* 2 eggs, room temperature
-* 1/4 cup canola oil
-* 6 - 6 1/2 cups bread flour
+* 2 1/4 teaspoons dry active yeast
+* 1 cup warm water
+* 1/4 cup sugar
+* 1 1/2 teaspoons salt
+* 1 egg, room temperature
+* 2 Tablespoons canola oil
+* 3 - 3 1/2 cups bread flour
 * Butter, softened
 
 ## Directions
 
 Dissolve the yeast in warm water. In a large bowl, combine the sugar,
-eggs, oil, salt, and 3 cups of flour until smooth. Add enough flour to
+egg, oil, salt, and 1 1/2 cups of flour until smooth. Add enough flour to
 make the dough slightly sticky and easy to handle. Turn the dough onto a
 lightly floured surface and knead 8 - 10 minutes. Place the dough in a
 greased bowl. Turn the dough over and cover with plastic wrap. Set in a
