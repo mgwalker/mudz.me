@@ -10,12 +10,12 @@ title: Rancho Gordo Elotes
 * 2 teaspoons olive oil, divided
 * 1 Tablespoon butter
 * 2 cups corn kernels, fresh or frozen
-* 2 Tablespoons sour cream
+* 1/4 cup sour cream
 * Juice of 1 lime
 * 1 Tablespoon hot sauce
-* 1/2 teaspoon chile powder
-* 1/2 teaspoon cumin
-* 1 1/2 teaspoons water
+* 1 teaspoon chile powder
+* 1 teaspoon cumin
+* 1 Tablespoon water
 * 1/2 cup cotija cheese, crumbled
 * 2 Tablespoons cilantro, minced
 * Salt and pepper, to taste
