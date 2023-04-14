@@ -6,13 +6,13 @@ title: Jalapeño and Smoked Cheddar Cornbread
 ## Ingredients
 
 * 5 Tabelspoons butter, softened
-* 1/2 cup sugar
+* 1/4 cup sugar
 * 1 cup cornmeal
 * 2/3 cups flour
 * 2 1/4 teaspoons baking powder
 * 1 1/2 teaspoons salt
 * 2 large eggs
-* 3/4 cup milk
+* 3/4 cup buttermilk
 * 1/2 cup jalapeños, seeded and chopped
 * 1/2 cup smoked cheddar cheese, shredded
 
