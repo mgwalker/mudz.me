@@ -9,10 +9,9 @@ title: Lemon Bars
 ### Crust
 
 * Canola oil, for greasing
-* 3/4 cup unsalted butter, diced
+* 1 cup unsalted butter, diced
+* 1/2 cup sugar
 * 2 cups all-purpose flour
-* 1/4 cup packed light brown sugar
-* 1/2 cup confectioner\'s sugar, plus more for garnish
 * 1/4 teaspoon salt
 
 ### Curd
@@ -28,7 +27,7 @@ title: Lemon Bars
 Position a rack in the middle of the oven and preheat to 350°F. Grease a
 9-by-13-inch pan with vegetable oil and line with foil, leaving a 2-inch
 overhang on all sides; grease the foil with oil. Pulse the butter,
-flour, both sugars and the salt in a food processor until the dough
+flour, sugar, and salt in a food processor until the dough
 comes together, about 1 minute. Press evenly into the bottom and about
 1/2 inch up the sides of the prepared pan, making sure there are no
 cracks. Bake until the crust is golden, about 25 minutes.
