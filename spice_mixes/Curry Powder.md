@@ -5,15 +5,15 @@ title: Curry Powder
 
 ## Ingredients
 
-* [5 ]{.s2}Tbsp ground coriander seeds
-* 2 Tbsp ground cumin seeds
-* 1 Tbsp ground turmeric
-* 2 tsp ground ginger
-* 2 tsp dry mustard
-* 2 tsp fenugreek seeds
-* 1 1/2 tsp ground black pepper
-* 1 tsp ground cinnamon
-* 1/2 tsp ground cloves
-* 1/2 tsp ground cardamom
-* 1/2 tsp ground chili peppers
+* 5 Tablespoons ground coriander seeds
+* 2 Tablespoons ground cumin seeds
+* 1 Tablespoon ground turmeric
+* 2 teaspoons ground ginger
+* 2 teaspoons dry mustard
+* 2 teaspoons fenugreek seeds
+* 1 1/2 teaspoons ground black pepper
+* 1 teaspoon ground cinnamon
+* 1/2 teaspoon ground cloves
+* 1/2 teaspoon ground cardamom
+* 1/2 teaspoon ground chili peppers
 
