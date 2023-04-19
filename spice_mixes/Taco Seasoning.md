@@ -12,6 +12,6 @@ title: Taco Seasoning
 * 1/2 teaspoon paprika
 * 1/4 teaspoon garlic powder
 * 1/4 teaspoon onion powder
-* 1/4 teaspoon dried oregano
+* 1/4 teaspoon Mexican oregano
 * 1/4 teaspoon crushed red pepper flakes
 
