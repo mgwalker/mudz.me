@@ -5,7 +5,7 @@ title: Cornbread
 
 ## Ingredients
 
-* 4 Tablespoons bacon drippings or canola oil
+* 1/4 cup bacon drippings or canola oil
 * 2 cups cornmeal (yellow or white)
 * 1/2 cup flour
 * 1 Tablespoon baking powder
