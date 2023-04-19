@@ -13,13 +13,4 @@ title: Japanese Golden Curry Powder
 * 1/4 teaspoon cayenne
 * 1/4 teaspoon clove
 * 1/4 teaspoon fennel
-* 1/4 teaspoon cinnamon
-               anise
-               allspice
-               nutmeg
-               fenugreek
-               bay leaf
-               sage
-               oregano
-               cocoa powder
-               coffee powder
+* Optional flavors: 1/4 teaspoon cinnamon, anise, allspice, nutmeg, fenugreek, sage, oregano, cocoa powder, coffee powder, or 1 bay leaf
