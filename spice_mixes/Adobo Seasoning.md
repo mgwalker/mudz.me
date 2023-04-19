@@ -5,11 +5,10 @@ title: Adobo Seasoning
 
 ## Ingredients
 
-* 3 Tbsp salt
-* 1 Tbsp onion powder
-* 1 Tbsp garlic powder
-* 1 Tbsp black pepper
-* 1/2 tsp oregano
-* 1/2 tsp chili powder
-* 1/2 tsp cumin
-
+* 3 Tablespoons salt
+* 1 Tablespoon onion powder
+* 1 Tablespoon garlic powder
+* 1 Tablespoon black pepper
+* 1/2 teaspoon oregano
+* 1/2 teaspoon chili powder
+* 1/2 teaspoon cumin
