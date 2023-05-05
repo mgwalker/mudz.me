@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Chicken Chow Mein
+title: Chicken Chao Mian
 ---
 
 ## Ingredients
