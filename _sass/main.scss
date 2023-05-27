@@ -51,7 +51,37 @@ body {
     padding-top: 1rem;
   }
 
+  ld-input[type="search"] {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+  }
+
   main {
+    #search-results { 
+      display: none;
+    }
+
+    &[data-search-active="true"] {
+      #search-results {
+        display: block;
+        position: fixed;
+        background: black;
+        background: var(--ld-col-rb-900);
+        color: white;
+        margin-left: -5rem;
+        padding: 1rem;
+        border-radius: var(--ld-br-m);
+
+        ul {
+          margin: 0;
+          padding: 0;
+          padding-left: 1rem;
+        }
+
+        a, a:visited { color: white; }
+      }
+    }
+
     position: relative;
     // z-index: 10;
     padding: 1rem 4rem;

@@ -22,6 +22,7 @@
 
     <div style="display: flex">
       <ld-sidenav open>
+        <ld-input type="search" placeholder="🔎"></ld-input>
         {% for c in collections.recipes %}
         <ld-sidenav-navitem mode="secondary"
           ><a href="/{{ c.dir }}/">{{ c.name }}</a>
@@ -30,7 +31,10 @@
         {% endfor %}
       </ld-sidenav>
 
-      <main>{{ content }}</main>
+      <main>
+        <div id="search-results"></div>
+        {{ content }}
+      </main>
     </div>
     <script type="module" src="/js/main.js"></script>
   </body>

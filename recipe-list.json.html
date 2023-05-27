@@ -1,0 +1,12 @@
+---
+eleventyExcludeFromCollections: true
+permalink: recipes.json
+---
+[
+{%- for category in collections.recipes -%}
+  {% assign outer = forloop %}
+  {%- for recipe in category.pages %}
+  ["{{ recipe.data.title }}", "{{ recipe.url }}"]{% unless forloop.last and outer.last %},{% endunless %}
+  {%- endfor -%}
+{%- endfor %}
+]
