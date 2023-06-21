@@ -5,10 +5,10 @@ title: Blackberry Tea Sauce
 
 ## Ingredients
 
-2 Tablespoons sugar
-2 teaspoons Earl Grey tea
-3 cups fresh blackberries
-2 teaspoons Champagne vinegar
+* 2 Tablespoons sugar
+* 2 teaspoons Earl Grey tea
+* 3 cups fresh blackberries
+* 2 teaspoons Champagne vinegar
 
 ## Directions
 
