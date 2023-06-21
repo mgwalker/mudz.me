@@ -5,15 +5,15 @@ title: The Bear’s Family Meal Spaghetti
 
 ## Ingredients
 
-1 cup olive oil
-10 crushed cloves of garlic
-1 Tablespoon red pepper flakes
-a big old handful of fresh basil, including stems
-2 28-ounce cans of crushed tomatoes
-1 large yellow onion, sliced in half
-1 stick unsalted butter, cubed
-1 Tablespoon canola oil
-16 ounces pasta, such as spaghetti
+* 1 cup olive oil
+* 10 crushed cloves of garlic
+* 1 Tablespoon red pepper flakes
+* A handful fresh basil, including stems
+* 2 28-ounce cans of crushed tomatoes
+* 1 large yellow onion, sliced in half
+* 1/2 cup unsalted butter, cubed
+* 1 Tablespoon canola oil
+* 16 ounces pasta, such as spaghetti
 
 ## Directions
 
