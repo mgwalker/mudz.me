@@ -5,7 +5,9 @@ title: Taco Seasoning
 
 ## Ingredients
 
-* 1 Tablespoon chili powder
+* 1 teaspoon ancho chile powder
+* 1 teaspoon chipotle chile powder
+* 1 teaspoon guajillo chile powder
 * 1 1/2 teaspoons ground cumin
 * 1 teaspoon salt
 * 1 teaspoon black pepper
