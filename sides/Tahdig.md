@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Persian Rice
+title: Tahdig
 ---
 
 ## Ingredients
