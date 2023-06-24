@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Niter Kibbeh II
+title: Niter Kebbeh II
 ---
 
 ## Ingredients
