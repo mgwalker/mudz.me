@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Atkilt
+title: Atakilt
 ---
 
 ## Ingredients
