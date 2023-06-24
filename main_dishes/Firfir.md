@@ -15,7 +15,7 @@ title: Firfir
 * 1 Tablespoon berbere
 * 2 Tablespoons tomato paste
 * 1 cup water
-* 2 kicha, torn into small pieces
+* 2 kicha or 1 large injera, torn into small pieces
 
 ## Directions
 
