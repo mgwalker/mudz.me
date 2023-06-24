@@ -5,29 +5,30 @@ title: Doro Wot
 
 ## Ingredients
 
-* 1 cup butter, divided
-* 1 onion, chopped
-* 2 1/2 cups water, divided
-* 1 (6 ounce) can tomato paste
-* 3/4 cup berbere
-* 1 teaspoon chopped garlic
-* 1/2 teaspoon ground ginger
-* 4 skinless, boneless chicken breasts, cubed
-* [1/3]{.s2} cup sweet white wine
-* 1/2 teaspoon ground cardamom
-* 1/2 teaspoon freshly ground black pepper
+* 2 chicken legs, split
+* 1 lime or lemon, quartered
+* 40 grams berbere
+* 1 cup plus 3 Tablespoons hot water, divided
+* 4 medium onions, minced
+* 3 Tablespoons canola oil
+* 3 Tablespoons niter kebbeh, divided
+* 1 Tablespoon minced garlic
+* 1 1/2 teaspoons grated ginger
+* pinch ground nigella seeds
+* pinch ground cardamom
+* pinch ground ajowan
+* 1/2 teaspoon mekelesha
+* 4 hard-boiled eggs
+* kosher salt, to taste
 
 ## Directions
 
-Heat 1/2 cup butter in a skillet over medium-low heat. Cook and stir
-onion until translucent, 5 to 6 minutes. Add 1/2 cup water and tomato
-paste; stir until hot, about 2 minutes. Stir in remaining butter,
-berbere, garlic, and ginger. Adjust heat to low and cook until mixture
-thickens to paste consistency, 20 to 30 minutes.
+Remove the skin from the chicken legs. Rinse well, then place in a bowl of cold water with the lime to soak.
 
-Stir remaining water into berbere paste; add chicken. Simmer until
-thickened to sauce consistency, about 45 minutes.
+In a small bowl, whisk together the berbere and 3 Tablespoons of hot water to form a thick paste. Set aside.
 
-Stir white wine, cardamom, and black pepper into the sauce; add
-hard-boiled eggs. Cook until sauce is reduced slightly, about 15 minutes
-more.
+In a heavy-bottomed sauté pan, cook the onion over a medium-low heat, stirring frequently, until soft and translucent, about 15 minutes. Stir in the oil, 2 Tablespoons of niter kebbeh, garlic, and ginger, and cook until aromatic, about 1 minute. Stir in the berbere paste, nigella, cardamom, and ajowan, and season generously with salt. Add a couple of spoonfuls of water, and cook over low heat for 10 minutes, stirring frequently. Add water as necessary to prevent scorching.
+
+Drain the chicken and gently squeeze to remove excess water. With a sharp knife, lightly score each piece with a pair of diagonal slits. Add the chicken to the pan, stir to coat it with the sauce, and cook for about 5 minutes. Add the remaining 1 cup of hot water, cover the pot, and simmer 1 hour 15 minutes, until the chicken is cooked through and tender.
+
+Remove the chicken to a plate raise the heat to high, and boil until the sauce thickens to a loose consistency. Turn off the heat and stir in the remaining 1 Tablespoon of niter kebbeh. Return the chicken to the pan along with the eggs, and serve.
