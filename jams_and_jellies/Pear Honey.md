@@ -6,7 +6,7 @@ title: Pear Honey
 ## Ingredients
 
 * 3 pounds pears, peeled and cored
-* 1 8 ounce can crushed pineapple
+* 1 8-ounce can crushed pineapple
 * 2 tablespoons lemon juice
 * 1 box Sure-Jell
 * 5 cups sugar
