@@ -10,12 +10,11 @@ title: Jalapeño Creamed Corn
 * 1 stick unsalted butter
 * 1 jalapeño, seeded and diced
 * 1 clove garlic, minced
-* Salt
-* 1 Tablespoon granulated sugar, can use more or less, depending on corn
-* sweetness
+* 1 Tablespoon granulated sugar
 * Pinch of cayenne
 * Salt to taste
 * 1/4 cup crumbled Cotija cheese
+* Salt, to taste
 
 ## Directions
 
