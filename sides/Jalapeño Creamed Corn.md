@@ -5,7 +5,7 @@ title: Jalapeño Creamed Corn
 
 ## Ingredients
 
-* 8 ears of corn, shucked or 6 cups frozen corn
+* 8 ears of corn, shucked, or 6 cups frozen corn
 * 2 1/2 cups half and half
 * 1 stick unsalted butter
 * 1 jalapeño, seeded and diced
