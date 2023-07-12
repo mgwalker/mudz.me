@@ -46,17 +46,17 @@ document.addEventListener("DOMContentLoaded", async () => {
           }
         });
 
-        // ingredients.forEach((recipes, key) => {
-        //   if (key.includes(word)) {
-        //     recipes.forEach(({ name, url }) => {
-        //       if (ingredientMatches.has(name)) {
-        //         ingredientMatches.get(name).words.add(key);
-        //       } else {
-        //         ingredientMatches.set(name, { url, words: new Set([key]) });
-        //       }
-        //     });
-        //   }
-        // });
+        ingredients.forEach((recipes, key) => {
+          if (key.includes(word)) {
+            recipes.forEach(({ name, url }) => {
+              if (ingredientMatches.has(name)) {
+                ingredientMatches.get(name).words.add(key);
+              } else {
+                ingredientMatches.set(name, { url, words: new Set([key]) });
+              }
+            });
+          }
+        });
       }
 
       const lines = [];
