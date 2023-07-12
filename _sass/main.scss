@@ -71,6 +71,16 @@ body {
         margin-left: -5rem;
         padding: 1rem;
         border-radius: var(--ld-br-m);
+        max-height: 70vh;
+        width: 40vw;
+        overflow-y: scroll;
+
+        h3 {
+          &:first-of-type {
+            margin-top: 0;
+          }
+          margin-bottom: 0.5rem;
+        }
 
         ul {
           margin: 0;
