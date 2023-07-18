@@ -16,7 +16,7 @@ title: Meatballs
 
 ## Directions
 
-Preheat the oven to 350°F.
+Heat the oven to 350°F.
 
 Soak the bread in the milk until soggy. Squeeze the milk from the bread
 and combine the bread gently with the meat, onion, garlic, parmesan,
