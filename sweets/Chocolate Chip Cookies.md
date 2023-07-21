@@ -27,4 +27,4 @@ in the egg. Add the dry ingredients and beat until mixed through. Stir
 in the chocolate chips.
 
 Drop the dough by spoonfuls onto an ungreased baking sheet, about 2
-inches apart. Bake 8-10 minutes.
+inches apart. Bake 12 - 15 minutes.
