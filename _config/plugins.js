@@ -1,7 +1,18 @@
 const fs = require("fs/promises");
+const Image = require("@11ty/eleventy-img");
+const path = require("path");
 const purgeCssPlugin = require("eleventy-plugin-purgecss");
 const sassPlugin = require("@grimlink/eleventy-plugin-sass");
 const sass = require("sass");
+
+const exists = async (path) => {
+  try {
+    await fs.access(path);
+    return true;
+  } catch (e) {
+    return false;
+  }
+};
 
 const wordsToRemoveFromIngredients = new Set([
   "cup",
@@ -29,6 +40,29 @@ for (const remove of [...wordsToRemoveFromIngredients]) {
 module.exports = (config) => {
   config.addPlugin(purgeCssPlugin);
   config.addPlugin(sassPlugin, { sass });
+
+  const imgExt = ["jpeg", "jpg", "png"];
+  config.addShortcode("imageMeta", async ({ inputPath }) => {
+    for await (const ext of imgExt) {
+      const imagePath = path.join(
+        path.dirname(inputPath),
+        `${path.basename(inputPath, ".md")}.${ext}`
+      );
+
+      const e = await exists(imagePath);
+      if (e) {
+        const images = await new Image(imagePath, {
+          formats: "png",
+          outputDir: "./_site/assets/recipes/",
+          widths: [800],
+        });
+        const imgUrl = images.png[0].outputPath.replace(/^_site/, "");
+        return `<meta property="og:image" content="${imgUrl}" />`;
+      }
+    }
+
+    return "";
+  });
 
   config.addFilter("encodeURI", encodeURI);
 

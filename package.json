@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy-img": "^3.1.0",
     "@emdgroup-liquid/liquid": "^4.4.3",
     "@grimlink/eleventy-plugin-sass": "^1.0.3",
     "eleventy-plugin-purgecss": "^0.3.0",
