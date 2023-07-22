@@ -30,6 +30,8 @@ module.exports = (config) => {
   config.addPlugin(purgeCssPlugin);
   config.addPlugin(sassPlugin, { sass });
 
+  config.addFilter("encodeURI", encodeURI);
+
   config.addFilter("jsonify", async (a) => {
     const {
       title,
