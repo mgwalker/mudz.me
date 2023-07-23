@@ -98,5 +98,23 @@ body {
     max-width: 800px;
     // margin: 0 auto;
     background-color: var(--ld-col-vy-050);
+
+    .recipe-list-table {
+      display: flex;
+      flex-wrap: wrap;
+
+      .recipe {
+        width: 30%;
+        margin-bottom: 1rem;
+        padding-bottom: 1rem;
+        margin-right: 1rem;
+        border-bottom: 1px solid rgba(0,0,0,0.4);
+
+        a img {
+          display: block;
+          padding-top: 0.5rem;
+        }
+      }
+    }
   }
 }
