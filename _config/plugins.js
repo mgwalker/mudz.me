@@ -37,17 +37,20 @@ for (const remove of [...wordsToRemoveFromIngredients]) {
   wordsToRemoveFromIngredients.add(`${remove}d`);
 }
 
-module.exports = (config) => {
-  config.addPlugin(purgeCssPlugin);
-  config.addPlugin(sassPlugin, { sass });
-
+const imgUrlFromMarkdownPath = (() => {
+  const urlMapping = new Map();
   const imgExt = ["jpeg", "jpg", "png"];
-  config.addShortcode("imageMeta", async ({ inputPath }) => {
+
+  return async (mdPath) => {
+    if (urlMapping.has(mdPath)) {
+      return urlMapping.get(mdPath);
+    }
+
+    const dir = path.dirname(mdPath);
+    const base = path.basename(mdPath, ".md");
+
     for await (const ext of imgExt) {
-      const imagePath = path.join(
-        path.dirname(inputPath),
-        `${path.basename(inputPath, ".md")}.${ext}`
-      );
+      const imagePath = path.join(dir, `${base}.${ext}`);
 
       const e = await exists(imagePath);
       if (e) {
@@ -57,10 +60,33 @@ module.exports = (config) => {
           widths: [800],
         });
         const imgUrl = images.png[0].outputPath.replace(/^_site/, "");
-        return `<meta property="og:image" content="${imgUrl}" />`;
+        urlMapping.set(mdPath, imgUrl);
+        return imgUrl;
       }
     }
 
+    urlMapping.set(mdPath, false);
+    return false;
+  };
+})();
+
+module.exports = (config) => {
+  config.addPlugin(purgeCssPlugin);
+  config.addPlugin(sassPlugin, { sass });
+
+  config.addShortcode("recipeImage", async ({ inputPath }) => {
+    const imgUrl = await imgUrlFromMarkdownPath(inputPath);
+    if (imgUrl) {
+      return `<img src="${imgUrl}" alt="" />`;
+    }
+    return "";
+  });
+
+  config.addShortcode("imageMeta", async ({ inputPath }) => {
+    const imgUrl = await imgUrlFromMarkdownPath(inputPath);
+    if (imgUrl) {
+      return `<meta property="og:image" content="${imgUrl}" />`;
+    }
     return "";
   });
 
