@@ -1,12 +1,13 @@
 ---
 layout: recipe
 title: Fesenjan
+description: Persian chicken in walnut and pomegranate sauce
 ---
 
 ## Ingredients
 
 * 1 1/2 large yellow onions, sliced
-* 3-4 Tablespoons oil
+* 3 - 4 Tablespoons oil
 * 2 pounds skinless chicken drumsticks or thighs
 * 2 bay leaves
 * 8 ounces walnut halves (about 2 cups)
