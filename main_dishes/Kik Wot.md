@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Kik Wot
-description: Ethiopian red lentils
+description: Ethiopian red lentil and tomato stew
 ---
 
 ## Ingredients
