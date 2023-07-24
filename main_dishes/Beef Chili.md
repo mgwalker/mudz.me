@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Beef Chili
+description: Texas-style
 ---
 
 ## Ingredients
@@ -20,7 +21,7 @@ title: Beef Chili
 * 1 jalapeño, seeded and chopped
 * 1 teaspoon sugar
 * 2 Tablespoons tomato paste
-* 1 (28-ounce) can whole tomatoes, crushed by hand
+* 1 28-ounce can crushed tomatoes
 * 1/2 cup masa harina
 
 ## Directions
