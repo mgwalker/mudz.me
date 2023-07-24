@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Mafé
+description: Malian peanut stew
 ---
 
 ## Ingredients
