@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Chicken Vindaloo
+description: Indian spicy chicken curry
 ---
 
 ## Ingredients
@@ -9,7 +10,7 @@ title: Chicken Vindaloo
 * 1/2 pound potatoes, cubed
 * 1 medium onion, chopped
 * 6 cloves garlic
-* 8 dried red chilies (such as New Mexicos, Californias, guajillos),
+* 8 dried red chilies (such as New Mexicos, Californias, guajillos)
 * rehydrated in white vinegar
 * 10 black peppercorns
 * 1 teaspoon cumin seeds
