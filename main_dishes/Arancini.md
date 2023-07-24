@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Arancini
+description: Italian risotto balls
 ---
 
 ## Ingredients
