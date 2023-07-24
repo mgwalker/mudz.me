@@ -37,7 +37,7 @@ for (const remove of [...wordsToRemoveFromIngredients]) {
   wordsToRemoveFromIngredients.add(`${remove}d`);
 }
 
-const imgUrlFromMarkdownPath = (() => {
+const imgUrlsFromMarkdownPath = (() => {
   const urlMapping = new Map();
   const imgExt = ["jpeg", "jpg", "png"];
 
@@ -57,11 +57,20 @@ const imgUrlFromMarkdownPath = (() => {
         const images = await new Image(imagePath, {
           formats: "png",
           outputDir: "./_site/assets/recipes/",
-          widths: [800],
+          widths: [800, 200],
         });
-        const imgUrl = images.png[0].outputPath.replace(/^_site/, "");
-        urlMapping.set(mdPath, imgUrl);
-        return imgUrl;
+        const imgs = images.png
+          .map(({ width, outputPath }) => [
+            width,
+            outputPath.replace(/^_site/, ""),
+          ])
+          .reduce(
+            (o, [width, outputPath]) => ({ ...o, [width]: outputPath }),
+            {}
+          );
+
+        urlMapping.set(mdPath, imgs);
+        return imgs;
       }
     }
 
@@ -74,18 +83,20 @@ module.exports = (config) => {
   config.addPlugin(purgeCssPlugin);
   config.addPlugin(sassPlugin, { sass });
 
-  config.addShortcode("recipeImage", async ({ inputPath }) => {
-    const imgUrl = await imgUrlFromMarkdownPath(inputPath);
+  config.addShortcode("useImageGrid", async (collection) => {});
+
+  config.addShortcode("recipeImage", async ({ inputPath }, size = 800) => {
+    const imgUrl = await imgUrlsFromMarkdownPath(inputPath);
     if (imgUrl) {
-      return `<img src="${imgUrl}" alt="" />`;
+      return `<img src="${imgUrl[size]}" alt="" />`;
     }
     return "";
   });
 
   config.addShortcode("imageMeta", async ({ inputPath }) => {
-    const imgUrl = await imgUrlFromMarkdownPath(inputPath);
+    const imgUrl = await imgUrlsFromMarkdownPath(inputPath);
     if (imgUrl) {
-      return `<meta property="og:image" content="${imgUrl}" />`;
+      return `<meta property="og:image" content="${imgUrl[800]}" />`;
     }
     return "";
   });

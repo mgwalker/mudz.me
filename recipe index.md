@@ -10,7 +10,11 @@ permalink: "{{ pagination.items[0].dir }}/index.html"
 
 # {{ item.name }}
 
+<div class="recipe-list-table">
 {% for page in item.pages %}
-
-- <a href="{{ page.url }}">{{ page.data.title }}</a>
-  {% endfor %}
+  <div class="recipe">
+    <a href="{{ page.url }}">{{ page.data.title }}
+    {% recipeImage page 200 %}</a>
+  </div>
+{% endfor %}
+</div>
