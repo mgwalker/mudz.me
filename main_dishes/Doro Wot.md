@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Doro Wot
+description: Ethiopian chicken stew with hard-boiled eggs
 ---
 
 ## Ingredients
