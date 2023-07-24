@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Chicken Tacos Norteños
+description: Grilled chicken quesadillas
 ---
 
 ## Ingredients
