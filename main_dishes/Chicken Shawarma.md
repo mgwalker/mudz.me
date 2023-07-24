@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Chicken Shawarma
+description: Middle Eastern roasted chicken pitas
 ---
 
 ## Ingredients
