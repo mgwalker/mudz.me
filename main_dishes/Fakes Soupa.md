@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Fakes Soupa
+description: Greek lentil stew
 ---
 
 ## Ingredients
