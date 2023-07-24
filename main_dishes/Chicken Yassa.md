@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Chicken Yassa
+description: Senegalese chicken in onion and lemon sauce
 ---
 
 ## Ingredients
