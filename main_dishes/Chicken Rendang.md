@@ -1,12 +1,12 @@
 ---
 layout: recipe
 title: Chicken Rendang
+description: Indonesian curry
 ---
 
 ## Ingredients
 
-* 1 1/2 pound boneless and skinless chicken breasts or thighs, cut into
-* cubes
+* 1 1/2 pound boneless and skinless chicken breasts or thighs, cut into cubes
 * 1/3 cup cooking oil
 * 1 cinnamon stick
 * 3 cloves
