@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Vadouvan Chicken
+description: French chicken curry
 ---
 
 ## Ingredients
