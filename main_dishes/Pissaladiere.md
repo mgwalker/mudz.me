@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Pissaladiere
+description: French onion tart
 ---
 
 ## Ingredients
@@ -10,7 +11,7 @@ title: Pissaladiere
 
 * 2 1/2 cups flour
 * 2 teaspoons salt
-* 1 package (0.25 oz) instant yeast
+* 2 1/4 teaspoons instant yeast
 * 1 1/4 cups water
 * 2 teaspoons olive oil
 
