@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Spaghetti Bolognese
+description: Italian pasta in a beef and red wine sauce
 ---
 
 ## Ingredients
