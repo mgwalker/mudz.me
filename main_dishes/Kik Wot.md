@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Kik Wot
+description: Ethiopian red lentils
 ---
 
 ## Ingredients
