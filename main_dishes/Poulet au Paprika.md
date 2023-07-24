@@ -17,7 +17,7 @@ description: Chicken legs in paprika sauce
 * 2 tomatoes, roughly chopped
 * 1 bay leaf
 * 2 Tablespoons sour cream or creme fraiche
-* Squeeze lemon juice, to taste (optional)
+* Lemon juice, to taste
 
 ## Directions
 
