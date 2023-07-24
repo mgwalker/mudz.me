@@ -7,7 +7,7 @@ description: Ethiopian red lentils
 ## Ingredients
 
 * 3/4 cup canola oil
-* 1-1/2 medium yellow onions, diced
+* 1 1/2 medium yellow onions, diced
 * 1/2 cup berbere, or to taste
 * 1 Tablespoon grated ginger
 * 2 teaspoons grated fresh garlic
