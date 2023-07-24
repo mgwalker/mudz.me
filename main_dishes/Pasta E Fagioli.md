@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Pasta E Fagioli
+description: Pasta and bean soup
 ---
 
 ## Ingredients
