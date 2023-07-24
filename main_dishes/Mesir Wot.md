@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Mesir Wot
+description: Ethiopian red lentils
 ---
 
 ## Ingredients
