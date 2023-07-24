@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Red Rooster Chicken
+description: Braised chicken legs with a Chinese-French sauce
 ---
 
 ## Ingredients
