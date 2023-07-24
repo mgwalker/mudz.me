@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Poulet au Paprika
+description: Chicken legs in paprika sauce
 ---
 
 ## Ingredients
