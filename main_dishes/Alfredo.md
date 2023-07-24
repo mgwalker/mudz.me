@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Alfredo
+description: Italian pasta in a white cheese sauce
 ---
 
 ## Ingredients
