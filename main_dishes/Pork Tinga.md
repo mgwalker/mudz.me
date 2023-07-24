@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Pork Tinga
+description: Mexican pork braised with tomatoes and chorizo
 ---
 
 ## Ingredients
