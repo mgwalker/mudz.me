@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Pozole Verde
+description: Mexican chile and corn soup
 ---
 
 ## Ingredients
