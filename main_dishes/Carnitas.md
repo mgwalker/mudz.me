@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Carnitas
+description: Mexican braised pork
 ---
 
 ## Ingredients
