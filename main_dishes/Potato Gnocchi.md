@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Potato Gnocchi
+description: Italian potato dumplings
 ---
 
 ## Ingredients
