@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Pasta E Ceci
+description: Pasta and chickpea soup
 ---
 
 ## Ingredients
