@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Kofta
+description: Central Asian meatballs
 ---
 
 ## Ingredients
