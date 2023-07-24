@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Railway Omelet
+description: Indian omelet
 ---
 
 ## Ingredients
