@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Char Siu Pork
+description: Chinese roasted pork
 ---
 
 ## Ingredients
@@ -17,7 +18,7 @@ title: Char Siu Pork
 * 1 1/2 Tablespoons soy sauce
 * 1 Tablespoon Chinese rose wine ([玫瑰露酒 - ]{.s2}méiɡui lùjiǔ)
 * 3 dashes white pepper powder
-* 1/2 teaspoon five-spice powder
+* 1/2 teaspoon five spice powder
 * 1/2 teaspoon sesame oil
 
 ## Directions
