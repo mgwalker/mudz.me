@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Kadai Gosht
+description: Indian lamb curry
 ---
 
 ## Ingredients
