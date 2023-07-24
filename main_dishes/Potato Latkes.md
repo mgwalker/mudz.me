@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Potato Latkes
+description: Jewish potato pancakes
 ---
 
 ## Ingredients
