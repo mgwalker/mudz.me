@@ -12,11 +12,11 @@ description: Chinese roasted pork
 
 ### Char Siu sauce
 
-* 1 1/2 Tablespoons maltose ([麦芽糖 - ]{.s2}màiyátánɡ[)]{.s2}
+* 1 1/2 Tablespoons maltose (麦芽糖 - màiyátánɡ)
 * 1 1/2 Tablespoons honey
 * 1 1/2 Tablespoons hoisin sauce
 * 1 1/2 Tablespoons soy sauce
-* 1 Tablespoon Chinese rose wine ([玫瑰露酒 - ]{.s2}méiɡui lùjiǔ)
+* 1 Tablespoon Chinese rose wine (玫瑰露酒 - méiɡui lùjiǔ)
 * 3 dashes white pepper powder
 * 1/2 teaspoon five spice powder
 * 1/2 teaspoon sesame oil
