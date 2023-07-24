@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Falafel
+description: Middle Eastern chickpea fritters
 ---
 
 ## Ingredients
