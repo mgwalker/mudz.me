@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Egg Foo Young
+description: Chinese omelet
 ---
 
 ## Ingredients
