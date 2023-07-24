@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Moong Dal
+description: Indian green lentil stew
 ---
 
 ## Ingredients
