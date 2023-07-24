@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Coca-Cola Braised Carnitas
+description: Mexican pork braised in Coca-Cola
 ---
 
 ## Ingredients
