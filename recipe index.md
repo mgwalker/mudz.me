@@ -12,5 +12,6 @@ permalink: "{{ pagination.items[0].dir }}/index.html"
 
 {% for page in item.pages %}
 
-- <a href="{{ page.url }}">{{ page.data.title }}</a>
+- <a href="{{ page.url }}">**{{ page.data.title }}**</a>{% if page.data.description %}  
+  {{ page.data.description }}{% endif %}
   {% endfor %}

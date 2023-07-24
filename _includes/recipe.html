@@ -4,4 +4,8 @@ layout: default
 
 <h1>{{ title }}</h1>
 
+{% if description %}
+<blockquote>{{ description }}</blockquote>
+{% endif %}
+
 {% recipeImage page %} {{ content }}
