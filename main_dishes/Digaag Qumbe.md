@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Digaag Qumbe
+description: Somali curry
 ---
 
 ## Ingredients
