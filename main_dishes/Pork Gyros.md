@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Pork Gyros
+description: Roasted pork pita sandwiches
 ---
 
 ## Ingredients
@@ -9,8 +10,8 @@ title: Pork Gyros
 * Juice of 2 lemons
 * 1/4 cup plus 1 Tablespoon extra-virgin olive oil
 * 8 cloves garlic, peeled and minced
-* 1 medium-size tomato
-* 2 medium-size yellow onions, peeled
+* 1 medium tomato
+* 2 medium yellow onions, peeled
 * 1 Tablespoon plus 1 teaspoon smoked or sweet paprika
 * 1 Tablespoon kosher salt
 * 2 teaspoons freshly ground black pepper
