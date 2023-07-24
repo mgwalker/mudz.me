@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Banh Mi Sandwiches
+description: Vietnamese grilled pork sandwiches
 ---
 
 ## Ingredients
@@ -8,7 +9,7 @@ title: Banh Mi Sandwiches
 
 ### Marinade
 
-* 2 pounds boneless pork butt, cut into 1/4" slices
+* 2 pounds boneless pork butt, cut into 1/4-inch slices
 * 1/2 cup minced lemongrass
 * 1/2 cup sugar
 * 3 Tablespoons fish sauce
