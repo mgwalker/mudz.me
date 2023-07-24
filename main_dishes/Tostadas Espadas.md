@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Tostadas Espadas
+description: Mexican grilled beef
 ---
 
 ## Ingredients
