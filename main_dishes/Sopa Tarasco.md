@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Sopa Tarasca
+description: Mexican pinto bean soup
 ---
 
 ## Ingredients
