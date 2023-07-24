@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Tarragon Chicken
+description: Pan-roasted chicken with a tarragon cream sauce
 ---
 
 ## Ingredients
