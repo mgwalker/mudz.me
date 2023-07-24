@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Bulgogi
+description: Korean grilled beef
 ---
 
 ## Ingredients
