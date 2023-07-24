@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Firfir
+description: Eritrean flatbread stew
 ---
 
 ## Ingredients
