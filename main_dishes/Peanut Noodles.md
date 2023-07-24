@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Dandan Noodles
+title: Peanut Noodles
 ---
 
 ## Ingredients
