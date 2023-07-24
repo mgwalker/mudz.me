@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Mantu
+description: Afghan meat dumplings
 ---
 
 ## Ingredients
