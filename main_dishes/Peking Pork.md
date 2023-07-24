@@ -5,7 +5,7 @@ title: Peking Pork
 
 ## Ingredients
 
-* 12 oz pork tenderloin, julienned
+* 12 ounces pork tenderloin, julienned
 * 3 scallions, julienned
 * Oil for frying
 
