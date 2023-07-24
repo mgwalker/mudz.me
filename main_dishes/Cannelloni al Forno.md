@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Cannelloni al Forno
+description: Italian stuffed pasta with tomato and cream sauces
 ---
 
 ## Ingredients
@@ -45,7 +46,7 @@ title: Cannelloni al Forno
 
 ## Directions
 
-[Tomato Sauce]{.s1}
+Tomato Sauce
 
 In a 3-quart saucepan, heat the olive oil over medium heat. Add the
 onion and garlic and cook until soft and light golden brown, about 8 to
@@ -54,7 +55,7 @@ carrot is quite soft. Add the tomatoes and juice and bring to a boil,
 stirring often. Lower the heat and simmer for 30 minutes until as thick
 as hot cereal. Season with salt.
 
-[Pasta]{.s1}
+Pasta
 
 Mound 3 1/2 cups of the flour in the center of a large wooden cutting
 board. Make a well in the middle of the flour and add the eggs and the
@@ -72,7 +73,7 @@ continue kneading for 6 more minutes. The dough should be elastic and a
 little sticky. Wrap the dough in plastic and allow to rest for 30
 minutes at room temperature.
 
-[Filling]{.s1}
+Filling
 
 In a large skillet, heat the butter over high heat until it foams and
 subsides. Add the ground pork and veal and cook over high heat until it
@@ -81,7 +82,7 @@ Parmesan, the flour and the milk and reduce heat to a simmer. Cook for
 10 minutes, stirring regularly, then remove from heat and allow to cool.
 Season with salt, pepper and nutmeg and stir in the egg. Set aside.
 
-[Bechamel]{.s1}
+Bechamel
 
 In a medium saucepan, heat butter until melted. Add flour and stir until
 smooth. Over medium heat, cook until light golden brown, about 6 to 7
@@ -92,7 +93,7 @@ to butter mixture 1 cup at a time, whisking continuously until very
 smooth and bring to a boil. Cook 10 minutes and remove from heat. Season
 with salt and nutmeg and set aside.
 
-[Cannelloni]{.s1}
+Cannelloni
 
 Roll the pasta out to the thinnest setting on a pasta rolling machine
 and cut it into rectangles measuring 4 inches by 6 inches. Divide the
