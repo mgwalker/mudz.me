@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Bierocks
+description: German stuffed buns
 ---
 
 ## Ingredients
