@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Sourdough Challa
+description: Jewish enriched sourdough bread
 ---
 
 ## Ingredients
