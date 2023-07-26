@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Jollof Rice
+description: Nigerian seasoned rice
 ---
 
 ## Ingredients
