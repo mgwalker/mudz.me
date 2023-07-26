@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Canjeero
+description: Somali sourdough pancakes
 ---
 
 ## Ingredients
