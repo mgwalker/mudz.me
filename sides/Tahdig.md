@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Tahdig
+description: Persian crispy rice
 ---
 
 ## Ingredients
