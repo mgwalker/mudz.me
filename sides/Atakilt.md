@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Atakilt
+description: Ethiopian boiled cabbage and potatoes
 ---
 
 ## Ingredients
