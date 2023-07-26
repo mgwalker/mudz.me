@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Kicha
+description: Eritrean fried flatbread
 ---
 
 ## Ingredients
