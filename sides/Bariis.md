@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Bariis
+description: Somali seasoned rice
 ---
 
 ## Ingredients
