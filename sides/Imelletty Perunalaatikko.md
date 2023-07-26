@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Sweetened Potato Casserole (Imelletty Perunalaatikko)
+title: Imelletty Perunalaatikko
+description: Finnish sweetened potato casserole
 ---
 
 ## Ingredients
