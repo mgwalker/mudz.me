@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Challa
+description: Jewish enriched bread
 ---
 
 ## Ingredients
