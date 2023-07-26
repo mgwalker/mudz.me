@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Carrot Casserole
+title: Porkkanalaatiko
+description: Finnish carrot casserole
 ---
 
 ## Ingredients
