@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Potato Galette
+description: Pretty scalloped potatoes
 ---
 
 ## Ingredients
