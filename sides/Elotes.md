@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Elotes
+description: Mexican seasoned corn
 ---
 
 ## Ingredients
@@ -10,7 +11,7 @@ title: Elotes
 * 2 Tablespoons mayonnaise
 * 2 Tablespoons crema mexicana
 * 1 1/2 teaspoons cayenne
-* 1 1/2 teaspoons chili powder
+* 1 1/2 teaspoons chile powder
 * 1/2 cup cilantro, minced
 * 2/3 cup cotija cheese, cubed
 * 2 Tablespoons lime juice
