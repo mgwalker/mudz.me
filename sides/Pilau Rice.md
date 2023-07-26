@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Pilau Rice
+description: Caribbean seasoned rice
 ---
 
 ## Ingredients
