@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Halal Cart Chicken
+description: Egyptian-American street food
 ---
 
 ## Ingredients
