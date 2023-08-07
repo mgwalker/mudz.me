@@ -1,15 +1,15 @@
 ---
 layout: recipe
 title: Kaimati
-description: Tanzanian coconut dumplings in cardamom syrup
+description: East African sweet dumplings in cardamom syrup
 ---
 
 ## Ingredients
 
 ### Dumplings
 * 1 1/4 cups full-fat unsweetened coconut milk
-* 1/2 teaspoon yeast
-* 1 cup flour
+* 1 teaspoon yeast
+* 2 cups flour
 * Oil, for frying
 
 ### Syrup
