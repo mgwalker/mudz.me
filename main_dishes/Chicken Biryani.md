@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Chicken Biryani
-description: Persian mint curry
+description: Persian baked chicken and rice
 ---
 
 ## Ingredients
