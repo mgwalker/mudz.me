@@ -13,14 +13,8 @@ description: Persian crispy rice
 
 ## Directions
 
-In a large saucepan bring water with salt to a boil. Add rice and boil
-10 minutes. In a colander, drain the rice and rinse under warm water.
+In a large saucepan, combine the water and salt, and bring to a biol. Add the rice and boil for 10 minutes. Drain the rice through a colander and rinse under warm water.
 
-In a 2- to 3-quart nonstick saucepan melt butter. Spoon rice over butter
-and cover pan with a kitchen towel and a heavy lid. Fold edges of towel
-up over lid and cook rice over moderately low heat until tender and a
-crust forms on bottom, 30 to 35 minutes.
+Melt the butter in a medium nonstick saucepan over medium heat. Spoon the rice over the butter, wrap a clean kitchen towel around the lid of the pan, and cover. Cook the rice over moderately low heat until it is tender and a crust forms on the bottom, 30 to 35 minutes. Turn off the heat and allow to steam, covered, for another 5 minutes.
 
-Spoon loose rice onto a platter and dip bottom of pan in a large bowl of
-cold water 30 seconds to loosen tah-dig. Remove tah-dig and serve over
-rice.
+Gently spoon the loose rice onto a platter, then dip the bottom of the pan in a large bowl of cold water for 30 seconds to loosen the tahdig. Carefully emove the tahdig and place on top of the rice. Serve immediately.
