@@ -23,9 +23,9 @@ title: Honey Garlic Chicken
 ### Sauce
 
 * 2 cloves garlic, sliced or lightly bruised
-* 1/3 cup pure honey
+* 1/3 cup honey
 * 1 teaspoon salt
-* 1 teaspoon Chinese cooking wine, or dry sherry wine
+* 1 teaspoon Shaoxing rice wine, or dry sherry
 * 1 teaspoon rice vinegar
 * 1/4 - 1/2 cup of water
 * 2 teaspoons cornstarch mixed with 4 teaspoons of water, for thickening
