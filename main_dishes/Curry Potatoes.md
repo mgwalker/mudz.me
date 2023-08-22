@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Curried Potatoes
+title: Curry Potatoes
 ---
 
 ## Ingredients
