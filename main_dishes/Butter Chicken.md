@@ -8,7 +8,7 @@ title: Butter Chicken
 
 ### Chicken
 
-* 2 pounds chicken, cut into 2" - 3" pieces
+* 2 pounds chicken, cut into 2- to 3-inch pieces
 * 2 teaspoons ginger paste
 * 1 1/2 Tablespoons garlic paste
 * 1-2 teaspoons red chili powder
@@ -31,7 +31,7 @@ title: Butter Chicken
 * 2 Tablespoons tomato paste
 * 2 teaspoons sugar
 * 1/2 teaspoon red chili powder
-* 1/2 teaspoon dried fenugreek leaves
+* 1/2 teaspoon fenugreek leaves
 * 2 Tablespoons oil, divided
 * 2 Tablespoons butter
 * 1/2 cup water
@@ -42,7 +42,7 @@ title: Butter Chicken
 Wash and thoroughly pat dry the chicken and put it in a large
 non-reactive bowl. Add all the marinade ingredients and mix well to
 ensure all the chicken pieces are well coated. Cover and let the chicken
-marinate for minimum 30 minutes or overnight in the refrigerator.
+marinate for a minimum of 30 minutes or overnight in the refrigerator.
 
 When ready, heat about 1 Tablespoon of oil in a large wok or a pan.
 Transfer the marinated chicken along with all the marinade to the wok,
