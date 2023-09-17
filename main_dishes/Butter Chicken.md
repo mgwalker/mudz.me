@@ -11,7 +11,7 @@ title: Butter Chicken
 * 2 pounds chicken, cut into 2- to 3-inch pieces
 * 2 teaspoons ginger paste
 * 1 1/2 Tablespoons garlic paste
-* 1-2 teaspoons red chili powder
+* 1 - 2 teaspoons red chili powder
 * 1/2 teaspoon ground black pepper
 * 2 teaspoons lime/lemon juice
 * 1 Tablespoon oil
