@@ -6,7 +6,7 @@ description: Italian risotto balls
 
 ## Ingredients
 
-* 3 cups unsalted chicken broth
+* 3 cups unsalted chicken stock
 * Kosher salt
 * 1 cup arborio rice
 * 2 Tablespoons pine nuts, toasted
@@ -19,7 +19,7 @@ description: Italian risotto balls
 
 ## Directions
 
-Bring the broth and 1/4 teaspoon salt to a boil in a medium saucepan
+Bring the stock and 1/4 teaspoon salt to a boil in a medium saucepan
 over medium-high heat. Stir in the rice, reduce the heat to low and
 simmer until tender, about 20 minutes. Set aside to cool completely.
 
@@ -36,3 +36,5 @@ paper. Loosely cover and refrigerate, at least 1 hour or overnight.
 Heat the oven to 375° F. Roll the rice balls in the remaining bread
 crumbs, and place back on the baking sheet. Bake until golden brown,
 30-45 minutes.
+
+NOTE: Shaping takes the longest. So, so long.
