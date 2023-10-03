@@ -12,6 +12,6 @@ title: Blackberry Vinaigrette
 * 1 teaspoon soy sauce
 * 1 1/4 cups mashed blackberries
 
-## directions
+## Directions
 
 Whisk all the ingredients together and strain through a mesh sieve.
