@@ -13,5 +13,5 @@ title: Savannah Chop Salad
 * Dried cranberries
 * Honey roasted almonds
 * Gorgonzola
-* Balsamic vinaigrette
+* Blackberry vinaigrette
 
