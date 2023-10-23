@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Sausage Rolls
+title: Sausage Kolaches
 ---
 
 ## Ingredients
@@ -32,8 +32,7 @@ remaining flour until the dough comes together and is soft but not
 sticky. Pour the dough out onto a floured surface and knead for about 5
 minutes or until smooth.
 
-Place the kneaded dough in a lightly oiled bowl, cover, and place in the
-refrigerator. Allow to rise overnight.
+Place the kneaded dough in a lightly oiled bowl, cover, and allow to rise for 1 hour. Alternatively, place in the refrigerator and leave to rise overnight.
 
 Grease or line a baking sheet with parchment paper. After the dough has
 risen, punch it down and pull off 8 even-sized pieces. In your hands,
