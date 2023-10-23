@@ -16,7 +16,7 @@ title: Japanese Golden Curry
 * 1 1/2 teaspoons ginger, grated
 * 4 cups chicken stock
 * 1 apple
-* 2 Tablespoons garam masala, divided
+* 1 Tablespoon garam masala
 * Salt and pepper, to taste
 * Optional: crushed tomatoes, bay leaf, star anise, butter, chocolate, coffee powder, honey, ketchup, oyster sauce, sake, soy sauce, Worcestershire sauce, yogurt, green peas
 
@@ -34,7 +34,7 @@ Heat a Tablespoon of oil in a pan over medium-high heat. When the pan is hot, ad
 
 Heat a heavy-bottomed pot over medium heat. Add the butter and heat until the foaming subsides. Add the onions and a pinch of salt, and lower the heat to medium-low. Cook the onions, stirring frequently, until caramelized, 30 - 45 minutes.
 
-Add the ginger and garlic, and cook until fragrant. Add the cooked chicken and the chicken stock. Peel the apple and grate it into the pot. Bring to a boil and reduce to a simmer. Meanwhile, heat a clean skillet over low heat and add 1 Tablespoon of garam masala. When it's fragrant, add it to the pot.
+Add the ginger and garlic, and cook until fragrant. Add the cooked chicken and the chicken stock. Peel the apple and grate it into the pot. Bring to a boil and reduce to a simmer. Meanwhile, heat a clean skillet over low heat and add the garam masala. When it's fragrant, add it to the pot.
 
 After 30 minutes, add the carrots and potaotes. Simmer another 30 minutes, or until the potatoes are tender.
 
