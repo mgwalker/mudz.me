@@ -7,18 +7,12 @@ description: Italian pasta in a white cheese sauce
 ## Ingredients
 
 * 1/2 cup butter
-* 8 ounces cream cheese
-* 1/2 cup mozzarella
-* 1/2 cup swiss cheese
-* 1/2 cup grated parmesan cheese
-* 1/4 teaspoon garlic powder
-* 1 teaspoon Italian seasoning
-* 1 cup heavy cream
+* 2 cups heavy cream
+* 1/8 teaspoon ground nutmeg
+* 1 1/2 cups grated parmesan cheese
+* Salt and pepper, to taste
 * 1 pound cooked fettuccine noodles
 
 ## Directions
 
-Melt butter over low heat. Add cream cheese, stir until smooth. Add in
-mozzarella, swiss, and parmesan one at a time, stirring until smooth.
-Stir in garlic powder and Italian seasoning. Cut with cream. Pour over
-fettuccine.
+Melt the butter over low heat. Add the cream and nutmeg, and whisk to combine. Bring to a simmer, and cook for 2 minutes. Remove from the heat. Whisk in the parmesan until smooth. Toss with the pasta and serve.
