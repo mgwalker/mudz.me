@@ -26,12 +26,12 @@ title: Chicken and Dumplings
 
 ### Dumplings
 
-* 1 3/4 cups all-purpose flour (see Cook's Note)
+* 1 3/4 cups all-purpose flour
 * 1 Tablespoon baking powder
 * 1 teaspoon salt
 * 1/4 teaspoon black pepper
 * 2 Tablespoons unsalted butter, melted
-* 1 cup buttermilk milk
+* 1 cup buttermilk
 
 
 ## Directions
