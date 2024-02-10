@@ -6,16 +6,16 @@ title: Marsala Braised Beef & Tortellini
 ## Ingredients
 
 * 3 Tablespoons olive oil
-* 1-2 pound boneless beef short rib (or similar tough cut of beef)
+* 1 - 2 pounds boneless beef short ribs (or similar tough cut of beef)
 * 1 large onion, chopped
 * 1 garlic clove, minced
 * 1 tomato, diced
 * 6 ounces fresh mushrooms, sliced
-* 8 ounces marsala wine
+* 1 cup marsala wine
 * 2 teaspoons dried basil
 * 2 teaspoons dried thyme
 * black pepper
-* 1-2 pounds cheese tortellini, boiled
+* 1 - 2 pounds cheese tortellini, boiled
 
 ## Directions
 
