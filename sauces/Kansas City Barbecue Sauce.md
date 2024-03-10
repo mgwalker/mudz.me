@@ -11,8 +11,8 @@ title: Kansas City Barbecue Sauce
 * 1/3 cup white vinegar
 * 1 1/2 cups water
 * 6 oz tomato paste
-* 2 Tablespoons dark brown sugar
-* 2 Tablespoons molasses
+* 1/4 cup dark brown sugar
+* 1/4 cup molasses
 * 1 teaspoon smoked paprika
 * 1 - 1 1/2 teaspoon kosher salt
 * 1 teaspoon black pepper
