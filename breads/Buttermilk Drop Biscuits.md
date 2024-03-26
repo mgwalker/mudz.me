@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Buttermilk Biscuits
+title: Buttermilk Drop Biscuits
 ---
 
 ## Ingredients
