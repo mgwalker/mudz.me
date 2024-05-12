@@ -21,7 +21,6 @@ title: Peanut Noodles
 ## Directions
 
 Whisk together the peanut butter and chicken broth in a bowl until well blended. Whisk in the garlic, ginger, soy sauce, brown sugar, sesame
-oil, vinegar, and chili oil. Set aside.
+oil, vinegar, and chili oil. Add to a medium saucepan and cook over medium heat, until it just begins to bubble. Reduce the heat to low.
 
-Cook the noodles according to the package directions. Drain thoroughly in a colander. Add the noodles to the bowl with the sauce and
-toss to combine. Serve topped with the peanuts and scallions.
+Cook the noodles according to the package directions. Drain thoroughly in a colander. Add to the sauce along with the peanuts and scallions, and toss to combine. Serve warm.
