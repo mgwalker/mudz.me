@@ -13,12 +13,12 @@ title: Dijon Potatoes with Chicken
 * Salt and pepper, to taste
 
 ### Sauce
-* 2 Tablespoons Dijon mustard
-* 2 Tablespoons honey
-* 1 1/2 teaspoons cider vinegar
-* 1 1/2 teaspoons water
-* 1 1/2 teaspoons whole-grain mustard
-* 2 teaspoons tarragon, minced
+* 1/4 cup Dijon mustard
+* 1/4 cup honey
+* 1 Tablespoon cider vinegar
+* 1 Tablespoon water
+* 1 Tablespoon whole-grain mustard
+* 4 teaspoons tarragon, minced
 
 ## Directions
 
