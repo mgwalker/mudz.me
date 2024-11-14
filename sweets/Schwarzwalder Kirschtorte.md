@@ -34,7 +34,7 @@ description: German Black Forest cake
 
 ### Decoration
 
-* 50 grams redcurrant or raspberry Jamaican
+* 50 grams redcurrant or raspberry jam
 * 250 grams sour cherries, pitted
 * 50 grams kirsch
 * 50 grams chocolate flakes
