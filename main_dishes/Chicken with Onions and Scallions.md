@@ -5,7 +5,7 @@ title: Chicken with Onions and Scallions
 
 ## Ingredients
 
-* 8 ounces beef tenderloin, thinly sliced
+* 8 ounces chicken breast, thinly sliced
 * 2 1/2 Tablespoons cooking oil
 * 3 stalks scallion, cut into 2-inch strips
 * 1/2 onion, sliced
@@ -31,16 +31,14 @@ title: Chicken with Onions and Scallions
 
 ## Directions
 
-Marinate the beef slices with all the ingredients in Marinade for 10
+Marinate the chicken slices with all the ingredients in Marinade for 10
 minutes.
 
-Heat up a wok with 1 tablespoon of oil and stir-fry the marinated beef
-until they are half-done. Dish out and set aside. Drain the bloody water
-from the beef.
+Heat up a wok with 1 Tablespoon of oil and stir-fry the marinated chicken
+until they are cooked through. Remove to a bowl.
 
 Heat up the remaining oil and stir-fry the garlic and onion until
-aromatic. Add the beef back into the wok and do a few quick stirs before
-adding the sauce. Continue to stir-fry until the beef slices are
-completely cooked, then add the scallions into the wok. Do a few quick
-stirs, add salt and more sugar to taste, dish out and serve hot with
+aromatic. Add the chicken back into the wok and do a few quick stirs before
+adding the sauce. Add the scallions into the wok. Do a few quick
+stirs, add salt and sugar to taste, dish out and serve hot with
 steamed rice.
