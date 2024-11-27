@@ -20,4 +20,4 @@ Heat the oven to 350° F. Butter an 8-inch square baking dish.
 
 Peel and cube the potatoes, and place them in a medium pot along with the garlic. Cover with cold water, add 2 Tablespoons of salt, and bring to a boil. Reduce the heat to medium and boil the potatoes until they are tender, about 20 minutes. Drain.
 
-While still hot, add the potatoes to the bowl of stand mixer along with the cream cheese, sour cream, butter, and green onions. Beat on medium until well combined. Pour into the prepared baking dish and bake until the top is golden brown, about 1 hour. Remove from the oven and sprinkle the smoked paprika over the top.
+While still hot, add the potatoes to the bowl of stand mixer along with the cream cheese, sour cream, butter, and green onions. Beat on medium until well combined. Season to taste with salt and pepper. Pour into the prepared baking dish and bake until the top is golden brown, about 1 hour. Remove from the oven and sprinkle the smoked paprika over the top.
