@@ -77,7 +77,7 @@ module.exports = (config) => {
   config.addShortcode("recipeImage", async ({ inputPath }) => {
     const imgUrl = await imgUrlFromMarkdownPath(inputPath);
     if (imgUrl) {
-      return `<img src="${imgUrl}" alt="" />`;
+      return `<img src="${imgUrl}" alt="" class="recipe-image" />`;
     }
     return "";
   });

@@ -8,4 +8,8 @@ layout: default
 <blockquote>{{ description }}</blockquote>
 {% endif %}
 
-{% recipeImage page %} {{ content }}
+<div style="float: right; max-width: 60%; margin-left: 1em">
+  {% recipeImage page %}
+</div>
+
+{{ content }}

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <title>mudz.me | {{ title }} recipe</title>
+    <title>mudz.me | Recipes{% if title %} | {{ title }}{% endif %}</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,maximum-scale=2" />
@@ -20,8 +20,7 @@
       property="og:description"
       content="Put some ingredients together and make them hot, probably."
     />
-    {% endif -%}
-    {% imageMeta page %} {%- endif %}
+    {% endif -%} {% imageMeta page %} {%- endif %}
 
     <link rel="stylesheet" type="text/css" href="/css/main.css" />
     <script type="text/javascript" src="/js/preload.js"></script>
