@@ -10,7 +10,7 @@ title: Pear Honey
 * 2 Tablespoons lemon juice
 * 1 box Sure-Jell
 * 5 cups sugar
-* red and green maraschino cherries, chopped (optional)
+* red and green maraschino cherries, rinsed and chopped (optional)
 
 ## Directions
 
