@@ -7,17 +7,15 @@ title: Pear Honey
 
 * 3 pounds pears, peeled and cored
 * 1 8-ounce can crushed pineapple
-* 2 tablespoons lemon juice
+* 2 Tablespoons lemon juice
 * 1 box Sure-Jell
 * 5 cups sugar
 * red and green maraschino cherries, chopped (optional)
 
 ## Directions
 
-Cook the pears until tender, then run through a sieve.
+Place a small saucer in the freezer.
 
-Combine the pears, pineapple, lemon juice, and Sure-Jell in a pot and
-bring to a rolling boil. Add the sugar and return to a boil. Boil 1
-minute.
+Chop the pears, then combine them with the sugar, Sure-Jell, lemon juice, and pineapple in a large pot. Bring to a simmer over medium heat, and simmer until the pears are tender, about 15 minutes. Once tender, mash the pears with a potato masher or large spoon, then bring to a rolling boil. Boil for 5 minutes, then spoon a small portion of jam onto the cold saucer to test. If the jam runs when you tilt the saucer, continue boiling another 5 minutes.
 
-Add the cherries and pour into jars.
+When the jam is set, turn off the heat, stir in the cherries, and pour into sterile jars.
