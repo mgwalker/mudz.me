@@ -1,0 +1,23 @@
+aside.sidenav {
+  display: none;
+
+  @media only screen and (min-width: 768px) {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0 5px 5px 0;
+    background: white;
+    vertical-align: top;
+
+    ul {
+      list-style-type: square;
+      li {
+        margin: 0.7rem 0;
+        &::marker {
+          color: rgb(15, 105, 175);
+          font-size: 1.5rem;
+        }
+      }
+    }
+  }
+}

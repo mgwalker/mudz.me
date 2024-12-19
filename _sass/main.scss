@@ -2,33 +2,27 @@
 layout: null
 ---
 
-@import "@emdgroup-liquid/liquid/dist/css/liquid";
-
-:root {
-  --ld-header-bg-col: yellow;
-}
+@use "components/badge";
+@use "components/crumbs";
+@use "components/header";
+@use "components/recipe";
+@use "components/sidenav";
 
 html {
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
 }
 
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--ld-col-vy-300);
-  font-family: var(--ld-font-body);
-  color: black;
-
-  &.no-wc {
-    * {
-      display: none;
-    }
-  }
+  opacity: 1;
+  background-color: #e4b638;
 
   &:before {
     background-image: url(/assets/pookie.svg);
-    background-size: 100%;
+    background-size: cover;
     background-position: 0 35%;
     background-attachment: fixed;
     position: fixed;
@@ -39,79 +33,167 @@ body {
     min-height: 100vh;
     min-width: 100vw;
     opacity: 0.4;
-  }
-
-  ld-header.ld-header {
-    background-color: var(--ld-col-vy-200);
-    color: black;
-  }
-
-  ld-sidenav.ld-sidenav {
-    position: initial;
-    padding-top: 1rem;
-  }
-
-  ld-input[type="search"] {
-    margin-left: 1rem;
-    margin-bottom: 1rem;
+    z-index: -1;
   }
 
   main {
-    #search-results {
-      display: none;
+    background: #fff3d9;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 800px;
+    line-height: 1.35;
+
+    @media only screen and (min-width: 768px) {
+      display: inline-block;
+      vertical-align: top;
+      min-width: 500px;
     }
 
-    .recipe-image {
-      max-width: 100%;
-    }
-
-    &[data-search-active="true"] {
-      #search-results {
-        display: block;
-        position: fixed;
-        background: black;
-        background: var(--ld-col-rb-900);
-        color: white;
-        margin-left: -5rem;
-        padding: 1rem;
-        border-radius: var(--ld-br-m);
-        max-height: 70vh;
-        width: 40vw;
-        overflow-y: scroll;
-
-        h3 {
-          &:first-of-type {
-            margin-top: 0;
-          }
-          margin-bottom: 0.5rem;
-        }
-
-        ul {
-          margin: 0;
-          padding: 0;
-          padding-left: 1rem;
-        }
-
-        a,
-        a:visited {
-          color: white;
-        }
+    ul {
+      li {
+        margin: 1rem 0;
       }
     }
-
-    position: relative;
-    // z-index: 10;
-    padding: 1rem 4rem;
-    max-width: 800px;
-    // margin: 0 auto;
-    background-color: var(--ld-col-vy-050);
   }
 }
 
-blockquote {
-  background: rgba(0, 0, 0, 0.085);
-  padding: 0.5rem;
-  margin: 0.5rem 0;
-  margin-top: -1rem;
-  font-style: italic;
-}
+// :root {
+//   --ld-header-bg-col: yellow;
+// }
+
+// html {
+//   margin: 0;
+//   padding: 0;
+// }
+
+// body {
+//   margin: 0;
+//   padding: 0;
+//   background-color: var(--ld-col-vy-300);
+//   font-family: var(--ld-font-body);
+//   color: black;
+
+//   &.no-wc {
+//     * {
+//       display: none;
+//     }
+//   }
+
+//   &:before {
+//     background-image: url(/assets/pookie.svg);
+//     background-size: 100%;
+//     background-position: 0 35%;
+//     background-attachment: fixed;
+//     position: fixed;
+//     content: "";
+//     display: block;
+//     top: 0;
+//     left: 0;
+//     min-height: 100vh;
+//     min-width: 100vw;
+//     opacity: 0.4;
+//   }
+
+//   ld-header.ld-header {
+//     background-color: var(--ld-col-vy-200);
+//     color: black;
+//     z-index: 30 !important;
+//   }
+
+//   .whole-page {
+//     @media only screen and (min-width: 768px) {
+//       display: flex;
+//       ld-sidenav-header {
+//         display: none;
+//       }
+//     }
+
+//     ld-sidenav-toggle-outside {
+//       z-index: 10;
+//       @media only screen and (min-width: 768px) {
+//         display: none;
+//       }
+//     }
+
+//     ld-sidenav.ld-sidenav {
+//       padding-top: 1rem;
+//       z-index: 20;
+
+//       &.ld-sidenav--open {
+//         position: fixed;
+//         top: 30px;
+//         left: 0;
+//       }
+
+//       @media only screen and (min-width: 768px) {
+//         position: initial !important;
+//         width: auto;
+//       }
+//     }
+
+//     ld-input[type="search"] {
+//       margin-left: 1rem;
+//       margin-bottom: 1rem;
+//     }
+
+//     main {
+//       #search-results {
+//         display: none;
+//       }
+
+//       .recipe-image {
+//         max-width: 100%;
+//       }
+
+//       &[data-search-active="true"] {
+//         #search-results {
+//           display: block;
+//           position: fixed;
+//           background: black;
+//           background: var(--ld-col-rb-900);
+//           color: white;
+//           margin-left: -5rem;
+//           padding: 1rem;
+//           border-radius: var(--ld-br-m);
+//           max-height: 70vh;
+//           width: 40vw;
+//           overflow-y: scroll;
+
+//           h3 {
+//             &:first-of-type {
+//               margin-top: 0;
+//             }
+//             margin-bottom: 0.5rem;
+//           }
+
+//           ul {
+//             margin: 0;
+//             padding: 0;
+//             padding-left: 1rem;
+//           }
+
+//           a,
+//           a:visited {
+//             color: white;
+//           }
+//         }
+//       }
+
+//       position: relative;
+//       // z-index: 10;
+//       padding: 1rem 4rem;
+//       max-width: 800px;
+//       // margin: 0 auto;
+//       background-color: var(--ld-col-vy-050);
+//     }
+//   }
+// }
+
+// blockquote {
+//   background: rgba(0, 0, 0, 0.085);
+//   padding: 0.5rem;
+//   margin: 0.5rem 0;
+//   margin-top: -1rem;
+//   font-style: italic;
+// }

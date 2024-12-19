@@ -1,0 +1,13 @@
+<div class="breadcrumbs">
+  <div class="crumb">
+    <a href="/recipes">Recipes</a>
+  </div>
+  <div class="chevron"></div>
+
+  {% for crumb in crumbs %}
+    <div class="crumb">
+      <a href="{{ crumb.path }}">{{ crumb.name }}</a>
+    </div>
+    <div class="chevron"></div>
+  {% endfor %}
+</div>

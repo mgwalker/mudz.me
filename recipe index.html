@@ -1,0 +1,20 @@
+---
+layout: recipe
+pagination:
+  data: collections.recipes
+  size: 1
+permalink: "{{ pagination.items[0].dir }}/index.html"
+---
+
+{% assign item = pagination.items[0] %}
+
+<ul>
+{% for page in item.pages %}
+  <li><a href="{{ page.url }}">{{ page.data.title }}</a>
+  {% if page.data.description %}
+    <br>
+    {{ page.data.description }}
+  {% endif %}
+  </li>
+{% endfor %}
+</ul>

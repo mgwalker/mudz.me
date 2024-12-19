@@ -2,14 +2,16 @@
 layout: default
 ---
 
-<h1>{{ title }}</h1>
-
-{% if description %}
-<blockquote>{{ description }}</blockquote>
+{% if pagination %}
+  {% capture title %}
+    {{ pagination.items[0].name }}
+  {% endcapture %}
 {% endif %}
 
-<div style="float: right; max-width: 60%; margin-left: 1em">
-  {% recipeImage page %}
-</div>
-
-{{ content }}
+<recipe>
+  {% if title %}
+  <h1>{{ title }}</h1>
+  {% endif %} {% if description %}
+  <blockquote>{{ description }}</blockquote>
+  {% endif %} {% recipeImage page %} {{ content }}
+</recipe>

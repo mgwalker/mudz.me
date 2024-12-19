@@ -56,12 +56,6 @@ module.exports = (config) => {
       outfile: "_site/js/main.js",
       sourcemap: false,
     });
-    await esbuild.build({
-      entryPoints: ["_js/preload.js"],
-      bundle: true,
-      outfile: "_site/js/preload.js",
-      sourcemap: false,
-    });
   });
 
   return {

@@ -1,0 +1,11 @@
+<aside class="sidenav">
+  <ul>
+  {% for page in collections.recipes %}
+    {% assign count = page.pages.length %}
+
+    <li>
+      <a href="/{{ page.dir }}">{{ page.name }}</a>
+      {% include "badge", value: count %}
+  {% endfor %}
+  </ul>
+</aside>

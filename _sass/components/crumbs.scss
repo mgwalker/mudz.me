@@ -1,0 +1,39 @@
+div.breadcrumbs {
+  display: flex;
+  background: white;
+  padding: 0.5rem;
+
+  @media only screen and (min-width: 768px) {
+    display: none;
+  }
+
+  .chevron {
+    position: relative;
+    text-align: center;
+    margin-top: 0.4rem;
+    height: 3px;
+    width: 1rem;
+    rotate: -90deg;
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 51%;
+      background: red;
+      transform: skew(0deg, 20deg);
+    }
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: 50%;
+      background: red;
+      transform: skew(0deg, -20deg);
+    }
+  }
+}

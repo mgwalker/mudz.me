@@ -59,7 +59,10 @@ const imgUrlFromMarkdownPath = (() => {
           outputDir: "./_site/assets/recipes/",
           widths: [800],
         });
-        const imgUrl = images.png[0].outputPath.replace(/^_site/, "");
+        const imgUrl = images.png[0].outputPath.replace(
+          /^_site/,
+          "https://mudz.me"
+        );
         urlMapping.set(mdPath, imgUrl);
         return imgUrl;
       }
@@ -134,5 +137,17 @@ module.exports = (config) => {
     );
 
     return `["${title}", "${url}", ${JSON.stringify([...ingredients])}]`;
+  });
+
+  config.addFilter("getCrumbs", (path) => {
+    return path
+      .split("/")
+      .slice(1, -2)
+      .map((name, i, paths) => ({
+        path: ["", ...paths.slice(0, i), name].join("/"),
+        name: name
+          .replace(/_/g, " ")
+          .replace(/^(.)/, (_, f) => f.toUpperCase()),
+      }));
   });
 };

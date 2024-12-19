@@ -1,57 +1,58 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <title>mudz.me | Recipes{% if title %} | {{ title }}{% endif %}</title>
+    <title>
+      {% assign name = title %}
+      
+      {% if pagination %}
+        {% capture title %}
+          {{ pagination.items[0].name }}
+        {% endcapture %}
+      {% endif %}
+      mudz.me
+      {% if layout == "recipe" %} | Recipes {% endif %}
+      {% if title %} | {{ title }}{% endif %}
+    </title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,maximum-scale=2" />
 
     <meta property="og:type" content="website" />
-    {%- if layout == "recipe" %}
     <meta
       property="og:url"
-      content="https://mudz.me/{{ title | encodeURI }}/"
+      content="https://mudz.me{{ page.url }}"
     />
-    <meta property="og:title" content="Recipe: {{ title }}" />
-    {%- if description %}
-    <meta property="og:description" content="{{ description }}" />
+    {% if layout == "recipe" %}
+      <meta
+        property="og:title"
+        content="Recipe{% if title %}: {{ title }}{% endif %}"
+      />
+      {%- if description %}
+        <meta property="og:description" content="{{ description }}" />
+      {% else %}
+        <meta
+          property="og:description"
+          content="Put some ingredients together and make them hot, probably."
+        />
+      {% endif %}
+      {% imageMeta page %}
     {% else %}
-    <meta
-      property="og:description"
-      content="Put some ingredients together and make them hot, probably."
-    />
-    {% endif -%} {% imageMeta page %} {%- endif %}
+      <meta property="og:title" content="mudz.me" />
+    {% endif %}
 
     <link rel="stylesheet" type="text/css" href="/css/main.css" />
-    <script type="text/javascript" src="/js/preload.js"></script>
+    
   </head>
   <body>
-    <ld-header site-name="mudz.me" logo-url="/" sticky>
-      <ld-icon size="lg" slot="logo">
-        <img src="/assets/pookie.svg" style="width: 24px" />
-      </ld-icon>
-      <div slot="end"><a href="/recipes">Recipes</a></div>
-      <div slot="end">
-        <a rel="me" href="https://toot.darkcooger.net/@mud212">Mastodon</a>
-      </div>
-    </ld-header>
+    {% include "header.html" %}
 
-    <div style="display: flex">
-      <ld-sidenav open>
-        <ld-input type="search" placeholder="🔎"></ld-input>
-        {% for c in collections.recipes %}
-        <ld-sidenav-navitem mode="secondary"
-          ><a href="/{{ c.dir }}/">{{ c.name }}</a>
-          <ld-badge>{{ c.pages.length }}</ld-badge></ld-sidenav-navitem
-        >
-        {% endfor %}
-      </ld-sidenav>
+    {% if layout == "recipe" %}
+      {% assign crumbs = page.outputPath | getCrumbs %}
+      {% include "sidenav", crumbs: crumbs %}
+    {% endif %}
 
-      <main>
-        <div id="search-results"></div>
-        {{ content }}
-      </main>
-    </div>
+    <main>{{ content }}</main>
+
     <script type="module" src="/js/main.js"></script>
   </body>
 </html>
