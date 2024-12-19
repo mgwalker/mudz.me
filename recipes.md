@@ -1,9 +1,7 @@
 ---
 title: Recipes
-layout: default
+layout: recipe
 ---
-
-# Recipes
 
 {% for page in collections.recipes %}
   {% assign count = page.pages.length %}

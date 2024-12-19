@@ -1,0 +1,39 @@
+button.search-button {
+  background: transparent;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.search-container {
+  display: block;
+  position: absolute;
+  right: 0;
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 0 0 0 5px;
+  background: white;
+  box-shadow: #555 0 3px 5px;
+
+  &.closed {
+    display: none;
+  }
+
+  .header {
+    display: block;
+    input {
+      width: 100%;
+      font-size: 1.5rem;
+      font-weight: 200;
+    }
+  }
+
+  .results {
+    display: block;
+    ul {
+      margin-top: 1rem;
+      margin-bottom: 0;
+    }
+  }
+}

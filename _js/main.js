@@ -1,5 +1,12 @@
 const recipesPromise = fetch("/recipes.json").then((r) => r.json());
 
+const badge = (content) => {
+  const div = document.createElement("div");
+  div.classList.add("badge");
+  div.innerHTML = `<div>${content}</div>`;
+  return div.outerHTML;
+};
+
 document.addEventListener("DOMContentLoaded", async () => {
   const recipes = await recipesPromise;
 
@@ -25,9 +32,37 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   }
 
+  const searchContainer = document.querySelector(".search-container");
+
+  const escapeHandler = ({ key }) => {
+    if (key === "Escape") {
+      document.querySelector("button.search-button").click();
+    }
+  };
+
   document
-    .querySelector("ld-sidenav ld-input")
-    .addEventListener("ldinput", ({ detail: search }) => {
+    .querySelector("button.search-button")
+    .addEventListener("click", () => {
+      searchContainer.classList.toggle("closed");
+      if (searchContainer.classList.contains("closed")) {
+        document.removeEventListener("keydown", escapeHandler);
+      } else {
+        document.addEventListener("keydown", escapeHandler);
+      }
+    });
+
+  searchContainer
+    .querySelector(".header input")
+    .addEventListener("input", ({ target: { value: search } }) => {
+      const searchResults = document.querySelector(
+        ".search-container .results"
+      );
+
+      if (search.length === 0) {
+        searchResults.innerHTML = "";
+        return;
+      }
+
       const searchWords = search
         .toLowerCase()
         .replace(/[^a-z ]/g, "")
@@ -99,8 +134,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         results.forEach((name) => {
           const { url, words } = ingredientMatches.get(name);
           lines.push(
-            `  <li><a href="${url}">${name}</a><div>${[...words]
-              .map((word) => `<ld-badge>${word}</ld-badge>`)
+            `  <li><a href="${url}">${name}</a><div> ${[...words]
+              .map((word) => badge(word))
               .join("")}</div></li>`
           );
         });
@@ -108,7 +143,6 @@ document.addEventListener("DOMContentLoaded", async () => {
       }
 
       if (lines.length) {
-        const searchResults = document.getElementById("search-results");
         searchResults.innerHTML = lines.join("\n");
       }
 

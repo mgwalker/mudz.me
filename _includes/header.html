@@ -5,8 +5,18 @@
   </a>
   <a href="/recipes">recipes</a>
   <a rel="me" href="https://toot.darkcooger.net/@mud212">mastodon</a>
+  {% if layout == "recipe" %}
+    <div>
+      <button class="big search-button">🔍</button>
+      {% include "search" %}
+    </div>
+  {% else %}
+    <div></div>
+  {% endif %}
 </header>
 {% if layout == "recipe" %}
+  {% if title != "Recipes" %}
     {% assign crumbs = page.outputPath | getCrumbs %}
     {% include "crumbs", crumbs: crumbs %}
+  {% endif %}
 {% endif %}
