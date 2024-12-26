@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Hmong Hot Dish
+description: Yia Vang's recipe
 ---
 
 ## Ingredients
