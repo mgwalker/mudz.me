@@ -6,7 +6,7 @@ description: Indonesian curry
 
 ## Ingredients
 
-* 1 1/2 pound boneless and skinless chicken breasts or thighs, cut into cubes
+* 1 1/2 pounds chicken breasts or thighs, cubed
 * 1/3 cup cooking oil
 * 1 cinnamon stick
 * 3 cloves
@@ -16,8 +16,8 @@ description: Indonesian curry
 * 1 cup coconut milk
 * 1 cup water
 * 5 kaffir lime leaves, bruised
-* 5 tablespoons toasted grated coconut (kerisik)
-* 1 tablespoon sugar or to taste
+* 5 Tablespoons toasted grated coconut (kerisik)
+* 1 Tablespoon sugar, or to taste
 * Salt to taste
 
 ### Spice Paste
@@ -31,7 +31,7 @@ description: Indonesian curry
 
 ## Directions
 
-All all the ingredients of the spice paste in a food processor. Blend
+Add all the ingredients of the spice paste in a food processor. Blend
 well.
 
 Heat the oil in a skillet, add the spice paste, cinnamon, cloves, star
@@ -43,4 +43,4 @@ until the chicken is almost cooked.
 Add the kaffir lime leaves, toasted coconut, stir to blend well with the
 chicken. Lower the heat to low, cover the lid, and slowly simmer for 30
 minutes or until the chicken is tender and the liquid has dried up. Add
-more sugar and salt to taste to taste. Serve immediately.
+more sugar and salt to taste. Serve with rice.
