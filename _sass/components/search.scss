@@ -31,9 +31,44 @@ button.search-button {
 
   .results {
     display: block;
+    max-width: 600px;
+    max-height: 80vh;
+    overflow-y: scroll;
+
     ul {
+      list-style: none;
       margin-top: 1rem;
       margin-bottom: 0;
+      padding: 0;
+
+      li {
+        display: flex;
+
+        + li {
+          margin-top: 1rem;
+          border-top: 1px solid #ddd;
+          padding-top: 1rem;
+        }
+
+        div.img {
+          width: 48px;
+          min-width: 48px;
+          height: 48px;
+          background-size: cover;
+          background-position: center;
+        }
+
+        div.info {
+          margin-left: 1rem;
+          h3 {
+            margin-top: 0;
+          }
+
+          max-height: 100px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
     }
   }
 }

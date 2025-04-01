@@ -60,8 +60,8 @@ const imgUrlFromMarkdownPath = (() => {
           widths: [800],
         });
         const imgUrl = images.png[0].outputPath.replace(
-          /^_site/,
-          "https://mudz.me"
+          /^_site\//,
+          '/'
         );
         urlMapping.set(mdPath, imgUrl);
         return imgUrl;

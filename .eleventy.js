@@ -2,12 +2,16 @@ const { configurePlugins } = require("./_config");
 const esbuild = require("esbuild");
 const fs = require("fs");
 
+const pagefind = import("pagefind");
+
 module.exports = (config) => {
   configurePlugins(config);
 
   config.addPassthroughCopy({ _assets: "assets" });
+  config.addPassthroughCopy({ "_js/pagefind": "pagefind" });
 
   config.addWatchTarget("./_js/");
+  config.watchIgnores.add("./_js/pagefind");
 
   const collections = fs
     .readdirSync(".", { withFileTypes: true })
@@ -49,10 +53,18 @@ module.exports = (config) => {
     }))
   );
 
-  config.on("eleventy.before", async () => {
+  config.on("eleventy.after", async () => {
+    const { createIndex } = await pagefind;
+    const { index } = await createIndex();
+
+    await index.addDirectory({ path: "_site" });
+    await index.writeFiles({ outputPath: "_js/pagefind" });
+    await index.writeFiles({ outputPath: "_site/pagefind" });
+
     await esbuild.build({
       entryPoints: ["_js/main.js"],
       bundle: true,
+      format: "esm",
       outfile: "_site/js/main.js",
       sourcemap: false,
     });

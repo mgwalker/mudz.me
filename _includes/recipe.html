@@ -8,7 +8,13 @@ layout: default
   {% endcapture %}
 {% endif %}
 
-<recipe>
+<recipe {% unless pagination %}data-pagefind-body{% endunless %}>
+  {% for term in search %}
+  <span style="display:none;" data-pagefind-weight="8">
+    {{ term }}{% if forloop.last %}.{% else %},{% endif %}
+  </span>
+  {% endfor %}
+  
   {% if title %}
   <h1>{{ title }}</h1>
   {% endif %} {% if description %}
