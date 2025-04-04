@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Oatmeal Cookies
+title: Oatmeal Bread
 ---
 
 ## Ingredients
