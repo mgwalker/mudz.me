@@ -40,8 +40,4 @@ is thoroughly cooked. If using an indoor broiler oven, broil for 5-7
 minutes on each side or until the meat is completely cooked and nicely
 charred.
 
-Remove the pork from the grill and assemble the baguettes with
-mayonnaise, and then put the sliced jalapeño chilies, a slice of grilled
-lemongrass pork, and finish off with a handful of pickled carrots,
-daikon, cilantro leaves. Serve a whole baguette or cut the baguette in
-half.
+Assemble the sandwiches and serve immediately.
