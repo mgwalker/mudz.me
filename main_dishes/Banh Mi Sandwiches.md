@@ -11,7 +11,7 @@ description: Vietnamese grilled pork sandwiches
 
 * 2 pounds boneless pork butt, cut into 1/4-inch slices
 * 1/2 cup minced lemongrass
-* 1/2 cup sugar
+* 1/4 cup sugar
 * 3 Tablespoons fish sauce
 * 1 1/2 Tablespoons ground black pepper
 * 5 shallots, peeled and minced
