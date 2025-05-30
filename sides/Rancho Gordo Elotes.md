@@ -7,6 +7,7 @@ title: Rancho Gordo Elotes
 
 * 1 cup cooked black beans, drained
 * 1 small red bell pepper, diced
+* 3 green onions, sliced
 * 2 teaspoons olive oil, divided
 * 1 Tablespoon butter
 * 2 cups corn kernels, fresh or frozen
