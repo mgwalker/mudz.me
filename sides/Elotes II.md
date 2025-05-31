@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Rancho Gordo Elotes
+title: Elotes II
+description: Rancho Gordo's recipe
 ---
 
 ## Ingredients
