@@ -6,7 +6,7 @@ description: Mexican seasoned corn
 
 ## Ingredients
 
-* 4 cups frozen corn
+* 4 cups fresh or frozen corn
 * 1 Tablespoon butter
 * 2 Tablespoons mayonnaise
 * 2 Tablespoons crema mexicana
