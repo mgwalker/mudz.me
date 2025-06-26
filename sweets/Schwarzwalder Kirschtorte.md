@@ -64,6 +64,6 @@ In a large bowl, whisk the cream and sugar until slightly stiff, then add in the
 
 ### Assembly
 
-Cover the shortcrust pastry base with jam, cream, and then cherries. Place the first layer of sponge cake on top and use the remaining kirsch to sprinkle the sponge. Layer the sponge with cream and cherries and place the second half of the sponge on top.
+Cover the shortcrust pastry base with jam, cream, and then cherries. Place the first layer of sponge cake on top and use half of the kirsch to sprinkle the sponge. Layer the sponge with cream and cherries and place the second half of the sponge on top, finishing with the remaining kirsch.
 
 Coat the top and edges of the assembled cake with whipped cream, then decorate the top with swirls and mounds of whipped cream. Sprinkle with chocolate shavings and place the maraschino cherries on mounds of cream.
