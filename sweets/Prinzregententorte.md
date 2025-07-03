@@ -14,7 +14,7 @@ title: Prinzregententorte
 * 1 teaspoon baking soda
 * 65 grams unsalted butter, melted
 
-### Chocolate Custard Filling
+### Chocolate Custard Buttercream
 * 600 milliliters whole milk
 * 3 large egg yolks
 * 60 grams corn starch
@@ -43,7 +43,7 @@ Divide the mixture into eight portions and spoon one portion onto one of the lin
 
 Bake for 6–8 minutes, until the sponge is golden and springy to the touch. Remove the sponges from the oven and transfer to wire racks to cool. After a few minutes, peel off the parchment paper and reuse for the next batch of sponges. Continue baking in batches until you have eight sponges.
 
-### Chocolate Custard Filling
+### Chocolate Custard Buttercream
 Pour 500 milliliters of the milk into a pan and bring it to just below boiling point. In a large bowl, whisk the egg yolks, corn starch, cocoa powder, and remaining 100 milliliters of milk together.
 
 Pour the hot milk over the egg mixture, whisking continuously, then pour the mixture back into the pan and whisk it over a gentle heat until the mixture thickens, about 3–5 minutes. Pour the custard into a shallow dish, cover the surface with plastic wrap to prevent a skin forming, and leave to cool.
