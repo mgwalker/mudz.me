@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title: Roasted Chicken
-description: Aaron Weber's recipe
 ---
 
 ## Ingredients
