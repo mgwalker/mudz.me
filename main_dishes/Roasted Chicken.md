@@ -1,28 +1,30 @@
 ---
 layout: recipe
 title: Roasted Chicken
+description: Aaron Weber's recipe
 ---
 
 ## Ingredients
 
 * 1 whole chicken, 4-7 lbs
-* 2-3 medium carrots, chopped
-* 2 parsnips, chopped
-* 2 medium onions, chopped
-* 1 pound new potatoes
-* 1/2 cup chicken stock
-* fresh thyme and rosemary
-* olive oil
-* salt
-* black pepper
+* 2 bay leaves
+* 1 lemon
+* 1 onion, chopped
+* 4 cloves garlic, halved
+* Thyme sprigs
+* Tarragon sprigs
+* Olive oil
+* Salt
+* Black pepper
 
 ## Directions
 
-Heat oven to 400° F.
+Heat oven to 425° F.
 
-Chop the vegetables to roughly equal size. Toss with oil, salt, and
-pepper, and place in a roasting pan with the herbs. Pour in the chicken
-stock. Rub the chicken with the oil until all the skin is covered.
-Season generously with salt and pepper, then place on top of the
-vegetables breast-side up. Place in the oven for 2 hours, and rest for
-15 minutes before serving.
+Cut 6 thin slices out of the middle of the lemon.
+
+Gently separate the skin from the breasts of the chicken. Stuff a bay leaf and 3 slices of lemon below the skin over each breast. Fill the cavity of the chicken with the onion, garlic, thyme, tarragon, and the ends of the lemon. Massage olive oil into the skin on all sides, then season generously with salt and black pepper.
+
+Roast in the oven until a meat thermometer inserted into the thickest part of the thighs reads 160° F, about 50 minutes.
+
+Remove from the oven and allow to rest at least 15 minutes before carving.
