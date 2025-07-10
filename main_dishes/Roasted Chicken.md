@@ -18,6 +18,8 @@ title: Roasted Chicken
 
 ## Directions
 
+The night before roasting, remove any organs from the cavity of the chicken, the generously salt the skin and cavity. Return to the refrigerator overnight.
+
 Heat oven to 425° F.
 
 Cut 6 thin slices out of the middle of the lemon.
