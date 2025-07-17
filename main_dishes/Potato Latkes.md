@@ -9,7 +9,7 @@ description: Jewish potato pancakes
 * 2 cups potatoes, peeled and grated
 * 2-3 Tablespoons grated onion
 * 1 egg, beaten
-* 2 Tablespoons matzo four (or all-purpose flour)
+* 2 Tablespoons matzo meal (or all-purpose flour)
 * 2 teaspoons salt
 * Oil for frying
 
@@ -20,7 +20,7 @@ moisture as possible.
 
 
 
-In a medium bowl stir the potatoes, onion, eggs, flour and salt
+In a medium bowl stir the potatoes, onion, eggs, matzo, and salt
 together.
 
 In a large heavy-bottomed skillet over medium-high heat, heat the oil
