@@ -62,8 +62,8 @@ Increase the speed and add the remaining 7 ounces caster sugar, one
 Tablespoon at a time, to make a stiff, glossy, peaked meringue. Gently
 fold the ground hazelnut mixture through the meringue.
 
-Spoon the meringue mixture to a large piping bag fitted with a [5/8
-]{.s2}inch plain nozzle and pipe the meringue into a spiral starting at
+Spoon the meringue mixture to a large piping bag fitted with a 5/8-
+inch plain nozzle and pipe the meringue into a spiral starting at
 the centre of each circle and working outwards to fill your template.
 
 Bake for one hour, rotating the top and bottom baking trays halfway
