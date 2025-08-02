@@ -12,7 +12,6 @@ title: Jalapeño Creamed Corn
 * 1 clove garlic, minced
 * 1 Tablespoon granulated sugar
 * Pinch of cayenne
-* Salt to taste
 * 1/4 cup crumbled Cotija cheese
 * Salt, to taste
 
