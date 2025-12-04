@@ -13,7 +13,8 @@ title: Cornbread Muffins
 * 1/2 cup unsalted butter, softened
 * 1 1/3 cups sugar
 * 4 eggs
-* 2 cups sour cream
+* 1 cup sour cream
+* 1 cup buttermilk
 
 ## Directions
 
@@ -21,6 +22,6 @@ Heat the oven to 350° F. Grease a regular muffin tin, or line with paper cups.
 
 Sift together the flour, cornmeal, corn flour, and baking soda.
 
-In a stand mixer, cream together the butter, sugar, and salt. Add the eggs and beat on medium-low speed until combined. Gradually beat in the dry ingredients, then fold in the sour cream.
+In a stand mixer, cream together the butter, sugar, and salt. Add the eggs and buttermilk, and beat on medium-low speed until combined. Gradually beat in the dry ingredients, then fold in the sour cream.
 
 Fill each of the cups of the muffin tin about 2/3 full. Bake until a toothpick inserted in the center comes out clean, 8 - 12 minutes. Let stand for 10 minutes before removing to a wire rack.
