@@ -7,12 +7,22 @@ recipe {
     font-style: italic;
   }
 
-  img {
-    max-width: 100%;
+  li {
+    @media only print {
+      line-height: 1;
+    }
+  }
 
-    @media only screen and (min-width: 768px) {
-      float: right;
-      max-width: 60%;
+  img {
+    display: none;
+    @media only screen {
+      display: initial;
+      max-width: 100%;
+
+      @media only screen and (min-width: 768px) {
+        float: right;
+        max-width: 60%;
+      }
     }
   }
 }
