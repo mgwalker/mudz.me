@@ -7,9 +7,16 @@ recipe {
     font-style: italic;
   }
 
-  li {
+  ul {
     @media only print {
-      line-height: 1;
+      // Ingredients in three columns
+      columns: 3;
+    }
+
+    li {
+      @media only print {
+        line-height: 1;
+      }
     }
   }
 

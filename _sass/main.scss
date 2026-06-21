@@ -9,6 +9,14 @@ layout: null
 @use "components/search";
 @use "components/sidenav";
 
+@media print {
+  // Get rid of the default browser header
+  // and footer because lol who cares
+  @page {
+    margin: 0;
+  }
+}
+
 html {
   margin: 0;
   padding: 0;
@@ -20,6 +28,12 @@ body {
   padding: 0;
   opacity: 1;
   background-color: #e4b638;
+
+  @media only print {
+    // Compensate for the 0-ed out margin that
+    // gets rid of the browser header/footer.
+    margin: 0.5in;
+  }
 
   .big {
     transform: scale(2, 2);
@@ -49,6 +63,12 @@ body {
     max-width: 800px;
     line-height: 1.35;
 
+    @media only print {
+      // When printing, take up the full width
+      // of the page
+      max-width: initial;
+    }
+
     @media only screen and (min-width: 768px) {
       display: inline-block;
       vertical-align: top;
@@ -56,7 +76,7 @@ body {
     }
 
     ul {
-      li {
+      li + li {
         margin: 1rem 0;
       }
     }
