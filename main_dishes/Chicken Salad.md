@@ -20,6 +20,7 @@ description: Aaron Weber's recipe
 * Salt and black pepper, to taste
 * Meat from a 3 - 4 pound roasted chicken, cubed
 * 2 Tablespoons vadouvan, optional
+* 1/3 cup unsweetened shredded coconut, optional
 
 ## Directions
 
