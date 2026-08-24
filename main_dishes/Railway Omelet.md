@@ -9,15 +9,18 @@ description: Indian omelet
 * 2 eggs
 * 1 Tablespoon whole milk
 * 1/4 large onion, diced
-* 1 green chile, diced
-* 1/2 teaspoon fenugreek
+* 2 serrano chiles, diced
+* 1/2 teaspoon fenugreek leaves
+* 1/2 teaspoon curry powder
 * 1/4 teaspoon ground turmeric
 * 1/4 teaspoon chile powder
 * 1/4 teaspoon black pepper
 * 1 pinch salt, to taste
-* 1 splash canola oil, for frying
+* Canola oil or butter, for frying
 
 ## Directions
+
+Over medium heat, sauté the onion and serrano in 1 teaspoon of oil until soft and beginning to char.
 
 In a large bowl, whisk together all the ingredients except the
 oil.
