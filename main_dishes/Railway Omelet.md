@@ -9,9 +9,9 @@ description: Indian omelet
 * 2 eggs
 * 1 Tablespoon whole milk
 * 1/4 large onion, diced
-* 2 serrano chiles, diced
+* 1 serrano chile, diced
 * 1/2 teaspoon fenugreek leaves
-* 1/2 teaspoon curry powder
+* 1/4 teaspoon curry powder
 * 1/4 teaspoon ground turmeric
 * 1/4 teaspoon chile powder
 * 1/4 teaspoon black pepper
