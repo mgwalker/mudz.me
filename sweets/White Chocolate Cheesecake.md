@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Mary Berry's White Chocolate Cheesecake
+title: White Chocolate Cheesecake
+description: Mary Berry's recipe
 ---
 
 ## Ingredients
