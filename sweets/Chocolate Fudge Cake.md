@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Mary Berry's Chocolate Fudge Cake
+title: Chocolate Fudge Cake
+description: Mary Berry's recipe
 ---
 
 ## Ingredients
