@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Tillie Specht's Carrot Cake
+title: Carrot Cake
+description: Tillie Specht's recipe
 ---
 
 ## Ingredients
