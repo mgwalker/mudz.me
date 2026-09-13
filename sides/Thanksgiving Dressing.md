@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Tillie Specht's Thanksgiving Dressing
+title: Thanksgiving Dressing
+description: Tillie Specht's recipe
 ---
 
 ## Ingredients
