@@ -1,6 +1,7 @@
 ---
 layout: recipe
-title: Thelma Wiggins's Chocolate Pie
+title: Chocolate Pie
+description: Thelma Wiggins's recipe
 ---
 
 ## Ingredients
