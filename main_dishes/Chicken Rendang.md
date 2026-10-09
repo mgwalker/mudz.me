@@ -31,16 +31,8 @@ description: Indonesian curry
 
 ## Directions
 
-Add all the ingredients of the spice paste in a food processor. Blend
-well.
+Add all the ingredients of the spice paste in a food processor and blend to a coarse paste.
 
-Heat the oil in a skillet, add the spice paste, cinnamon, cloves, star
-anise, and cardamom pods and stir-fry them until aromatic. Add the
-chicken and lemongrass, stir to combine well with the spices. Add the
-coconut milk, water, and simmer on medium heat, stirring frequently
-until the chicken is almost cooked.
+Heat the oil in a skillet over medium heat. Add the spice paste, cinnamon, cloves, star anise, and cardamom pods, and stir-fry them until aromatic. Add the chicken and lemongrass, then stir to combine well with the spices. Add the coconut milk and water, and simmer on medium heat, stirring frequently until the chicken is almost cooked.
 
-Add the kaffir lime leaves, toasted coconut, stir to blend well with the
-chicken. Lower the heat to low, cover the lid, and slowly simmer for 30
-minutes or until the chicken is tender and the liquid has dried up. Add
-more sugar and salt to taste. Serve with rice.
+Add the kaffir lime leaves, toasted coconut, and sugar. Reduce the heat to low, cover the lid, and slowly simmer for 30 minutes or until the chicken is tender and the liquid has dried up. Season to taste with sugar and salt. Serve with rice.
