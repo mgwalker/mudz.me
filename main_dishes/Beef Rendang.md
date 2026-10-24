@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Chicken Rendang
+title: Beef Rendang
 description: Indonesian curry
 ---
 
