@@ -21,7 +21,7 @@ title: Chicken Pot Pie
 * 1 onion, diced
 * 1/4 pound carrots, diced
 * 2 celery ribs, diced
-* 3 - 4 cups chicken stock
+* 2 - 3 cups chicken stock
 * 1 pound cooked chicken thighs, cubed
 * 1/4 cup butter
 * 2 ounces flour
